@@ -7,8 +7,9 @@
     <style>
         :root {
             --primary: #2c3e50;
-            --accent: #8e44ad; /* Purple for a modern look */
+            --accent: #8e44ad;
             --success: #27ae60;
+            --warning: #f39c12; /* New color for Medium */
             --danger: #c0392b;
             --bg: #f8f9fa;
         }
@@ -34,9 +35,22 @@
             box-shadow: 0 4px 15px rgba(0,0,0,0.05);
             text-align: center;
             margin-bottom: 30px;
+            position: relative;
         }
 
         h1 { margin: 0 0 15px 0; color: var(--primary); font-size: 1.6rem; }
+        
+        .save-btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+        .save-btn:hover { background-color: #34495e; }
 
         /* --- Loader --- */
         .loader {
@@ -49,7 +63,7 @@
             animation: spin 1s linear infinite;
             margin-left: 10px;
             vertical-align: middle;
-            display: none; /* Hidden by default */
+            display: none; 
         }
 
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
@@ -63,14 +77,11 @@
             max-width: 300px;
             background-color: white;
             cursor: pointer;
-            transition: border-color 0.2s;
         }
-
-        select:hover { border-color: var(--accent); }
 
         /* --- Card Area --- */
         .card-area {
-            display: none; /* Hidden until loaded */
+            display: none; 
             flex-direction: column;
             align-items: center;
             width: 100%;
@@ -125,21 +136,28 @@
         .translation { font-size: 1.6rem; font-weight: 600; margin-bottom: 15px; }
         .meta-info { font-size: 0.95rem; opacity: 0.9; line-height: 1.4; }
         .example-box { margin-top: 20px; padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); font-style: italic; font-size: 0.9rem; }
+        .status-badge { font-size: 0.8rem; background: rgba(0,0,0,0.2); padding: 2px 8px; border-radius: 10px; margin-top: 5px; }
 
         /* --- Controls --- */
-        .controls { margin-top: 35px; display: flex; gap: 15px; }
+        .controls { margin-top: 35px; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;}
         
         button.action-btn {
-            padding: 14px 28px; border: none; border-radius: 12px;
+            padding: 14px 20px; border: none; border-radius: 12px;
             font-size: 1rem; cursor: pointer; font-weight: 700;
-            transition: transform 0.1s, box-shadow 0.2s;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.1s;
+            min-width: 80px;
+            color: white;
+            display: none; /* Hidden initially */
         }
         button.action-btn:active { transform: scale(0.96); }
 
-        .btn-reveal { background-color: var(--accent); color: white; }
-        .btn-wrong { background-color: var(--danger); color: white; display: none; }
-        .btn-correct { background-color: var(--success); color: white; display: none; }
+        .btn-reveal { background-color: var(--accent); display: block; width: 100%; }
+        
+        /* 4 Grading Buttons */
+        .btn-again { background-color: var(--danger); }
+        .btn-hard { background-color: #e67e22; }
+        .btn-medium { background-color: var(--warning); } /* New Button */
+        .btn-easy { background-color: var(--success); }
 
         .progress-container {
             width: 320px; height: 8px; background: #e0e0e0;
@@ -161,6 +179,10 @@
             <div id="loader" class="loader"></div>
         </div>
         <div id="statusMsg" class="status-msg">Connecting to GitHub...</div>
+        
+        <button onclick="downloadProgress()" class="save-btn" id="saveBtn" style="display:none;">
+            💾 Save Progress
+        </button>
     </header>
 
     <div id="gameArea" class="card-area">
@@ -179,9 +201,12 @@
         </div>
 
         <div class="controls">
-            <button id="btnWrong" class="action-btn btn-wrong" onclick="nextCard(false)">Hard</button>
             <button id="btnReveal" class="action-btn btn-reveal" onclick="flipCard()">Show Answer</button>
-            <button id="btnCorrect" class="action-btn btn-correct" onclick="nextCard(true)">Easy</button>
+            
+            <button id="btnAgain" class="action-btn btn-again" onclick="rateCard('again')">Again</button>
+            <button id="btnHard" class="action-btn btn-hard" onclick="rateCard('hard')">Hard</button>
+            <button id="btnMedium" class="action-btn btn-medium" onclick="rateCard('medium')">Medium</button>
+            <button id="btnEasy" class="action-btn btn-easy" onclick="rateCard('easy')">Easy</button>
         </div>
 
         <div class="progress-container">
@@ -191,52 +216,51 @@
 
     <script>
         // ==========================================
-        // ⚙️ CONFIGURATION: EDIT THESE 3 LINES
+        // ⚙️ CONFIGURATION
         // ==========================================
-        const GITHUB_USERNAME = 'tuanhungstar'; // e.g. 'johndoe'
-        const REPO_NAME = 'learn_german';             // e.g. 'german-practice'
-        const DATA_FOLDER = 'data';                     // Folder name where JSONs are
+        const GITHUB_USERNAME = 'tuanhungstar'; 
+        const REPO_NAME = 'learn_german';     
+        const DATA_FOLDER = 'data';                    
         // ==========================================
 
         let activeDeck = [];
         let currentIndex = 0;
+        let currentFileName = ""; // To save with correct name
         
         // DOM Elements
         const chapterSelect = document.getElementById('chapterSelect');
         const statusMsg = document.getElementById('statusMsg');
         const loader = document.getElementById('loader');
         const gameArea = document.getElementById('gameArea');
+        const saveBtn = document.getElementById('saveBtn');
+        
         const cardElement = document.getElementById('flashcard');
         const frontFace = cardElement.querySelector('.card-front');
         const backFace = cardElement.querySelector('.card-back');
         const statsDisplay = document.getElementById('statsDisplay');
         const progressBar = document.getElementById('progressBar');
+        
         const btnReveal = document.getElementById('btnReveal');
-        const btnWrong = document.getElementById('btnWrong');
-        const btnCorrect = document.getElementById('btnCorrect');
+        const gradingBtns = [
+            document.getElementById('btnAgain'),
+            document.getElementById('btnHard'),
+            document.getElementById('btnMedium'),
+            document.getElementById('btnEasy')
+        ];
 
-        // 1. Initialize: Fetch File List from GitHub API
+        // 1. Initialize
         window.onload = async function() {
-            if (GITHUB_USERNAME === 'YOUR_GITHUB_USERNAME') {
-                statusMsg.textContent = "Error: Please edit the index.html file to add your Username and Repo.";
-                return;
-            }
-
             loader.style.display = 'inline-block';
             const apiUrl = `https://api.github.com/repos/${GITHUB_USERNAME}/${REPO_NAME}/contents/${DATA_FOLDER}`;
 
             try {
                 const response = await fetch(apiUrl);
                 if (!response.ok) throw new Error('Repo not found or private');
-                
                 const files = await response.json();
-                
-                // Filter for .json files
                 const jsonFiles = files.filter(file => file.name.endsWith('.json'));
 
                 if (jsonFiles.length === 0) {
-                    statusMsg.textContent = "No JSON files found in the 'data' folder.";
-                    loader.style.display = 'none';
+                    statusMsg.textContent = "No JSON files found.";
                     return;
                 }
 
@@ -245,7 +269,7 @@
                 
             } catch (error) {
                 console.error(error);
-                statusMsg.textContent = "Could not load files. Check your config settings.";
+                statusMsg.textContent = "Error connecting to GitHub.";
             } finally {
                 loader.style.display = 'none';
             }
@@ -253,68 +277,60 @@
 
         function populateDropdown(files) {
             chapterSelect.innerHTML = '<option value="" disabled selected>Select a Chapter</option>';
-            
             files.forEach(file => {
                 const option = document.createElement('option');
-                option.value = file.download_url; // We save the raw URL here
+                option.value = file.download_url; 
                 option.textContent = file.name.replace('.json', '');
+                option.dataset.filename = file.name; // Store filename
                 chapterSelect.appendChild(option);
             });
         }
 
-        // 2. Load Specific Chapter Data
+        // 2. Load Chapter
         async function loadSelectedChapter() {
             const rawUrl = chapterSelect.value;
+            const selectedOption = chapterSelect.options[chapterSelect.selectedIndex];
+            currentFileName = selectedOption.dataset.filename;
+
             if (!rawUrl) return;
 
             loader.style.display = 'inline-block';
-            statusMsg.textContent = "Loading words...";
+            statusMsg.textContent = "Loading...";
             gameArea.style.display = 'none';
+            saveBtn.style.display = 'none';
 
             try {
                 const response = await fetch(rawUrl);
                 const jsonContent = await response.json();
 
-                // Handle structure variation (array vs object)
                 if (Array.isArray(jsonContent)) {
                     activeDeck = jsonContent;
                 } else if (jsonContent.fullContent) {
                     activeDeck = jsonContent.fullContent;
-                } else {
-                    alert("Unknown JSON format");
-                    return;
                 }
 
+                // Filter out "Easy" cards if reloading? (Optional, skipping for simplicity)
                 shuffle(activeDeck);
                 currentIndex = 0;
                 
-                // Start Game
                 statusMsg.textContent = "";
                 gameArea.style.display = 'flex';
+                saveBtn.style.display = 'block'; // Show save button
                 renderCard();
 
             } catch (error) {
-                statusMsg.textContent = "Error loading chapter content.";
+                statusMsg.textContent = "Error loading content.";
             } finally {
                 loader.style.display = 'none';
             }
         }
 
-        // 3. Game Logic (Same as before)
-        function shuffle(array) {
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
-        }
-
+        // 3. Render Card
         function renderCard() {
             if (currentIndex >= activeDeck.length) {
                 frontFace.innerHTML = `<div class="term-large">Fertig! 🎉</div>`;
                 backFace.innerHTML = ``;
-                btnReveal.style.display = 'none';
-                btnWrong.style.display = 'none';
-                btnCorrect.style.display = 'none';
+                toggleButtons(false); // Hide buttons
                 return;
             }
 
@@ -334,6 +350,7 @@
             // Back
             let pluralHtml = item.plural ? `<span>Plural: <strong>${item.plural}</strong></span>` : "";
             let exampleHtml = item.example ? `<div class="example-box">"${item.example}"</div>` : "";
+            let statusBadge = item.status ? `<div class="status-badge">Last: ${item.status}</div>` : "";
 
             backFace.innerHTML = `
                 <div class="type-tag">${item.type || 'Word'}</div>
@@ -341,13 +358,13 @@
                 <div class="meta-info">
                     ${pluralHtml}
                     ${exampleHtml}
+                    ${statusBadge}
                 </div>
             `;
 
+            // Reset State
             cardElement.classList.remove('flipped');
-            btnReveal.style.display = 'inline-block';
-            btnWrong.style.display = 'none';
-            btnCorrect.style.display = 'none';
+            toggleButtons(false); // Show Reveal only
             
             statsDisplay.textContent = `${currentIndex + 1} / ${activeDeck.length}`;
             progressBar.style.width = `${(currentIndex / activeDeck.length) * 100}%`;
@@ -357,17 +374,64 @@
             if (currentIndex >= activeDeck.length) return;
             cardElement.classList.toggle('flipped');
             
-            const isFlipped = cardElement.classList.contains('flipped');
-            btnReveal.style.display = isFlipped ? 'none' : 'inline-block';
-            btnWrong.style.display = isFlipped ? 'inline-block' : 'none';
-            btnCorrect.style.display = isFlipped ? 'inline-block' : 'none';
+            if (cardElement.classList.contains('flipped')) {
+                toggleButtons(true); // Show grading buttons
+            } else {
+                toggleButtons(false); // Show reveal button
+            }
         }
 
-        function nextCard(known) {
-            if (!known) activeDeck.push(activeDeck[currentIndex]);
+        function toggleButtons(showGrading) {
+            if (showGrading) {
+                btnReveal.style.display = 'none';
+                gradingBtns.forEach(btn => btn.style.display = 'inline-block');
+            } else {
+                btnReveal.style.display = 'block';
+                gradingBtns.forEach(btn => btn.style.display = 'none');
+            }
+        }
+
+        // 4. Rate & Next
+        function rateCard(rating) {
+            const item = activeDeck[currentIndex];
+            
+            // SAVE RESULT to the object in memory
+            item.status = rating; 
+            item.last_reviewed = new Date().toISOString();
+
+            // Logic: If "Again", put back in deck. If "Easy", keep moving.
+            if (rating === 'again') {
+                activeDeck.push(item);
+            }
+            
             currentIndex++;
             renderCard();
         }
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        // 5. DOWNLOAD FUNCTION (The "Save" Feature)
+        function downloadProgress() {
+            // Sort by ID before saving to keep it tidy
+            const dataToSave = [...activeDeck].sort((a, b) => a.id - b.id);
+            
+            // Convert to JSON string
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dataToSave, null, 2));
+            
+            // Create a fake download link
+            const downloadAnchorNode = document.createElement('a');
+            downloadAnchorNode.setAttribute("href", dataStr);
+            downloadAnchorNode.setAttribute("download", currentFileName || "vocab_progress.json");
+            document.body.appendChild(downloadAnchorNode); // required for firefox
+            downloadAnchorNode.click();
+            downloadAnchorNode.remove();
+        }
+
     </script>
 </body>
 </html>
