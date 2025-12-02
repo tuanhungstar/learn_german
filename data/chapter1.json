@@ -1,0 +1,1173 @@
+[
+  {
+    "id": 1,
+    "term": "faulenzen",
+    "type": "verb",
+    "translation": "to laze about / to idle",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 2,
+    "term": "giftig",
+    "type": "adj",
+    "translation": "poisonous / toxic",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 3,
+    "term": "der Himmel",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "sky / heaven",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 4,
+    "term": "im Freien",
+    "type": "phrase",
+    "translation": "outdoors / in the open",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 5,
+    "term": "das Insekt",
+    "article": "das",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "insect",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 6,
+    "term": "das Netz",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "net",
+    "chapter": 1,
+    "example": "Er hat nachts ein Netz vor dem Zelt.",
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 7,
+    "term": "der Pilz",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "mushroom / fungus",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 8,
+    "term": "der Schutz",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "protection",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 9,
+    "term": "zelten",
+    "type": "verb",
+    "translation": "to camp",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 10,
+    "term": "angenehm",
+    "type": "adj",
+    "translation": "pleasant",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 11,
+    "term": "die Aussicht",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "view / outlook",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 12,
+    "term": "dabei sein (für + A.)",
+    "type": "verb phrase",
+    "translation": "to be included / to be there",
+    "chapter": 1,
+    "example": "Im Urlaub am Meer ist für jeden etwas dabei.",
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 13,
+    "term": "drüben",
+    "type": "adv",
+    "translation": "over there",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 14,
+    "term": "das Erlebnis",
+    "article": "das",
+    "plural": "-se",
+    "type": "noun",
+    "translation": "experience",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 15,
+    "term": "der Genuss",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "enjoyment / pleasure",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 16,
+    "term": "herrlich",
+    "type": "adj",
+    "translation": "magnificent / splendid",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 17,
+    "term": "die Küste",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "coast",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 18,
+    "term": "reif",
+    "type": "adj",
+    "translation": "ripe / mature",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 19,
+    "term": "der Sand",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "sand",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 20,
+    "term": "die Traube",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "grape",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 21,
+    "term": "der Urlaubsgruß",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "holiday greeting",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 22,
+    "term": "derselbe, dasselbe, dieselbe",
+    "type": "pronoun",
+    "translation": "the same",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 23,
+    "term": "die Entfernung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "distance",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 24,
+    "term": "das Ferienhaus",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "vacation home",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 25,
+    "term": "gründlich",
+    "type": "adj",
+    "translation": "thorough",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 26,
+    "term": "rechtzeitig",
+    "type": "adj",
+    "translation": "on time / punctual",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 27,
+    "term": "schick",
+    "type": "adj",
+    "translation": "chic / stylish",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 28,
+    "term": "der Typ",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "type / guy",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 29,
+    "term": "der Urlaubstyp",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "type of vacationer",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 30,
+    "term": "das Urlaubsziel",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "vacation destination",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 31,
+    "term": "der Chat",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "chat",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 32,
+    "term": "erholen (sich)",
+    "type": "verb",
+    "translation": "to recover / to relax",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 33,
+    "term": "der Kompromiss",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "compromise",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 34,
+    "term": "meinetwegen",
+    "type": "adv",
+    "translation": "for all I care / as far as I'm concerned",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 35,
+    "term": "sorry (ugs.)",
+    "type": "interjection",
+    "translation": "sorry",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 36,
+    "term": "die Urlaubsplanung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "vacation planning",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 37,
+    "term": "wieso",
+    "type": "adv",
+    "translation": "why / how come",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 3]"
+  },
+  {
+    "id": 38,
+    "term": "zu",
+    "type": "particle",
+    "translation": "to",
+    "chapter": 1,
+    "example": "Ich habe keine Lust, lange nach einer Ferienwohnung zu suchen.",
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 39,
+    "term": "entspannend",
+    "type": "adj",
+    "translation": "relaxing",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 40,
+    "term": "erfahren",
+    "type": "verb",
+    "translation": "to experience / to learn",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 41,
+    "term": "die Schifffahrt",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "boat trip / shipping",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 42,
+    "term": "das Wellnesshotel",
+    "article": "das",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "wellness hotel",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 43,
+    "term": "ca. (circa)",
+    "type": "adv",
+    "translation": "approx.",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 44,
+    "term": "enthalten sein (in + D.)",
+    "type": "verb",
+    "translation": "to be included in",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 45,
+    "term": "die Fahrtzeit",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "travel time",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 46,
+    "term": "das Gästehaus",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "guesthouse",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 47,
+    "term": "die Halbpension",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "half board",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 48,
+    "term": "höchstens",
+    "type": "adv",
+    "translation": "at most",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 49,
+    "term": "der Reisebüro-Mitarbeiter",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "travel agent (male)",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 50,
+    "term": "die Reisebüro-Mitarbeiterin",
+    "article": "die",
+    "plural": "-nen",
+    "type": "noun",
+    "translation": "travel agent (female)",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 51,
+    "term": "der Skibus",
+    "article": "der",
+    "plural": "-se",
+    "type": "noun",
+    "translation": "ski bus",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 52,
+    "term": "das Skigebiet",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "ski resort / ski area",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 53,
+    "term": "der Skilift",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "ski lift",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 54,
+    "term": "die Vollpension",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "full board",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 55,
+    "term": "der Wellness-Bereich",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "wellness area",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 56,
+    "term": "der Winterurlaub",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "winter vacation",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 57,
+    "term": "die Badewanne",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "bathtub",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 58,
+    "term": "das Boot",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "boat",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 59,
+    "term": "da",
+    "type": "conjunction",
+    "translation": "since / because",
+    "chapter": 1,
+    "example": "Da Rothenburg so bekannt ist, kommen viele Touristen in die Stadt.",
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 60,
+    "term": "der Einfall",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "idea / notion",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 61,
+    "term": "enttäuscht",
+    "type": "adj",
+    "translation": "disappointed",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 62,
+    "term": "der Forumstext",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "forum text",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 63,
+    "term": "jedenfalls",
+    "type": "adv",
+    "translation": "in any case",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 64,
+    "term": "liegen",
+    "type": "verb",
+    "translation": "to lie / to be located",
+    "chapter": 1,
+    "example": "In Umfragen liegen meistens große Städte vorn.",
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 65,
+    "term": "obwohl",
+    "type": "conjunction",
+    "translation": "although",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 66,
+    "term": "offenbar",
+    "type": "adj",
+    "translation": "apparently / obviously",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 67,
+    "term": "solche",
+    "type": "pronoun",
+    "translation": "such",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 68,
+    "term": "spazieren",
+    "type": "verb",
+    "translation": "to walk / stroll",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 69,
+    "term": "die Stadtatmosphäre",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "city atmosphere",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 70,
+    "term": "die Strandpromenade",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "beach promenade",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 71,
+    "term": "sein weg",
+    "type": "phrase",
+    "translation": "to be gone / away",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 72,
+    "term": "der Strandurlaub",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "beach vacation",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 73,
+    "term": "das Abenteuer",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "adventure",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 74,
+    "term": "auf bauen",
+    "type": "verb",
+    "translation": "to set up / build up",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 11]"
+  },
+  {
+    "id": 75,
+    "term": "die Bild-Geschichte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "picture story",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 20]"
+  },
+  {
+    "id": 76,
+    "term": "Bock (Sg., ugs.)",
+    "article": "der",
+    "type": "noun",
+    "translation": "desire / fancy (slang)",
+    "chapter": 1,
+    "example": "keinen Bock mehr auf etwas haben",
+    [cite_start]"source_ref": "[cite: 21]"
+  },
+  {
+    "id": 77,
+    "term": "brennen",
+    "type": "verb",
+    "translation": "to burn",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 22]"
+  },
+  {
+    "id": 78,
+    "term": "der Eimer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "bucket",
+    "chapter": 1,
+    "example": "Es regnet! Der ganze Ausflug ist im Eimer!",
+    [cite_start]"source_ref": "[cite: 23, 24]"
+  },
+  {
+    "id": 79,
+    "term": "der Kofferraum",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "trunk (of a car)",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 25]"
+  },
+  {
+    "id": 80,
+    "term": "mehrfach",
+    "type": "adj",
+    "translation": "multiple / several times",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 26]"
+  },
+  {
+    "id": 81,
+    "term": "schief gehen",
+    "type": "verb",
+    "translation": "to go wrong",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 27]"
+  },
+  {
+    "id": 82,
+    "term": "tragen",
+    "type": "verb",
+    "translation": "to carry / wear",
+    "chapter": 1,
+    "example": "Gepäck zum Auto tragen",
+    [cite_start]"source_ref": "[cite: 29]"
+  },
+  {
+    "id": 83,
+    "term": "verzweifelt",
+    "type": "adj",
+    "translation": "desperate",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 31]"
+  },
+  {
+    "id": 84,
+    "term": "die Wiese",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "meadow",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 32]"
+  },
+  {
+    "id": 85,
+    "term": "das Zeug",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "stuff / gear",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 33]"
+  },
+  {
+    "id": 86,
+    "term": "fest machen",
+    "type": "verb",
+    "translation": "to fasten / fix",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 35]"
+  },
+  {
+    "id": 87,
+    "term": "die Perspektive",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "perspective",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 36]"
+  },
+  {
+    "id": 88,
+    "term": "diktieren",
+    "type": "verb",
+    "translation": "to dictate",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 38]"
+  },
+  {
+    "id": 89,
+    "term": "auf",
+    "type": "adv",
+    "translation": "open / up",
+    "chapter": 1,
+    "example": "Ohren auf!",
+    [cite_start]"source_ref": "[cite: 41]"
+  },
+  {
+    "id": 90,
+    "term": "der ICE",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "Intercity-Express (train)",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 43]"
+  },
+  {
+    "id": 91,
+    "term": "die Zugnummer",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "train number",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 44]"
+  },
+  {
+    "id": 92,
+    "term": "die Bushaltestelle",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "bus stop",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 45]"
+  },
+  {
+    "id": 93,
+    "term": "das Gepäckband",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "luggage belt / baggage claim",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 46]"
+  },
+  {
+    "id": 94,
+    "term": "der Tiergarten",
+    "article": "der",
+    "plural": "\"-",
+    "type": "noun",
+    "translation": "zoo / tiergarten",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 47]"
+  },
+  {
+    "id": 95,
+    "term": "der Hauptbahnhof",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "main train station",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 48]"
+  },
+  {
+    "id": 96,
+    "term": "die Alm",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "alpine pasture / mountain hut",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 52]"
+  },
+  {
+    "id": 97,
+    "term": "der Almsommer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "alpine summer",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 53]"
+  },
+  {
+    "id": 98,
+    "term": "der Almurlaub",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "vacation on an alp",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 54]"
+  },
+  {
+    "id": 99,
+    "term": "begeistert",
+    "type": "adj",
+    "translation": "enthusiastic / thrilled",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 55]"
+  },
+  {
+    "id": 100,
+    "term": "beinahe",
+    "type": "adv",
+    "translation": "almost / nearly",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 56]"
+  },
+  {
+    "id": 101,
+    "term": "eher",
+    "type": "adv",
+    "translation": "rather",
+    "chapter": 1,
+    "example": "Insgesamt ist es eher einsam hier auf der Alm.",
+    [cite_start]"source_ref": "[cite: 57]"
+  },
+  {
+    "id": 102,
+    "term": "die Einsamkeit",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "loneliness / solitude",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 59]"
+  },
+  {
+    "id": 103,
+    "term": "der Empfang",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "reception",
+    "chapter": 1,
+    "example": "Hier auf dem Berg gibt es keinen Empfang für Handys.",
+    [cite_start]"source_ref": "[cite: 60]"
+  },
+  {
+    "id": 104,
+    "term": "entschließen (sich)",
+    "type": "verb",
+    "translation": "to decide / make up one's mind",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 62]"
+  },
+  {
+    "id": 105,
+    "term": "erholt",
+    "type": "adj",
+    "translation": "rested / recovered",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 64]"
+  },
+  {
+    "id": 106,
+    "term": "erkälten (sich)",
+    "type": "verb",
+    "translation": "to catch a cold",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 65]"
+  },
+  {
+    "id": 107,
+    "term": "falls",
+    "type": "conjunction",
+    "translation": "in case / if",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 66]"
+  },
+  {
+    "id": 108,
+    "term": "das Gebirge",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "mountain range",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 74]"
+  },
+  {
+    "id": 109,
+    "term": "gegen",
+    "type": "prep",
+    "translation": "around (time) / against",
+    "chapter": 1,
+    "example": "Wir treffen uns gegen 8 Uhr, okay?",
+    [cite_start]"source_ref": "[cite: 75]"
+  },
+  {
+    "id": 110,
+    "term": "heim fahren",
+    "type": "verb",
+    "translation": "to drive home",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 76]"
+  },
+  {
+    "id": 111,
+    "term": "das Heimweh",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "homesickness",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 78]"
+  },
+  {
+    "id": 112,
+    "term": "hierher",
+    "type": "adv",
+    "translation": "here (direction)",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 80]"
+  },
+  {
+    "id": 113,
+    "term": "die Hütte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "hut / cabin",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 81]"
+  },
+  {
+    "id": 114,
+    "term": "die Käserei",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "cheese dairy",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 82]"
+  },
+  {
+    "id": 115,
+    "term": "melken",
+    "type": "verb",
+    "translation": "to milk",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 83]"
+  },
+  {
+    "id": 116,
+    "term": "momentan",
+    "type": "adv",
+    "translation": "currently",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 84]"
+  },
+  {
+    "id": 117,
+    "term": "die Neuigkeit",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "news / novelty",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 85]"
+  },
+  {
+    "id": 118,
+    "term": "der Rückblick",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "review / look back",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 86]"
+  },
+  {
+    "id": 119,
+    "term": "der Sonnenaufgang",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "sunrise",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 87]"
+  },
+  {
+    "id": 120,
+    "term": "der Terminkalender",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "appointment calendar",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 88]"
+  },
+  {
+    "id": 121,
+    "term": "vorbei sein",
+    "type": "verb",
+    "translation": "to be over",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 89]"
+  },
+  {
+    "id": 122,
+    "term": "der Zeitpunkt",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "point in time",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 90]"
+  },
+  {
+    "id": 123,
+    "term": "der Almaufenthalt",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "stay on an alp",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 91]"
+  },
+  {
+    "id": 124,
+    "term": "mit arbeiten",
+    "type": "verb",
+    "translation": "to work together / collaborate",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 92]"
+  },
+  {
+    "id": 125,
+    "term": "der Ferienclub",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "holiday club",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 94]"
+  },
+  {
+    "id": 126,
+    "term": "der Olivenbaum",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "olive tree",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 95]"
+  },
+  {
+    "id": 127,
+    "term": "die Weihnachtsferien",
+    "article": "die",
+    "plural": "(Pl.)",
+    "type": "noun",
+    "translation": "Christmas holidays",
+    "chapter": 1,
+    [cite_start]"source_ref": "[cite: 96]"
+  }
+]
