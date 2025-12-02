@@ -4,16 +4,14 @@
     "term": "faulenzen",
     "type": "verb",
     "translation": "to laze about / to idle",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 2,
     "term": "giftig",
     "type": "adj",
     "translation": "poisonous / toxic",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 3,
@@ -22,16 +20,14 @@
     "plural": "-",
     "type": "noun",
     "translation": "sky / heaven",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 4,
     "term": "im Freien",
     "type": "phrase",
     "translation": "outdoors / in the open",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 5,
@@ -40,8 +36,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "insect",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 6,
@@ -51,8 +46,7 @@
     "type": "noun",
     "translation": "net",
     "chapter": 1,
-    "example": "Er hat nachts ein Netz vor dem Zelt.",
-    [cite_start]"source_ref": "[cite: 3]"
+    "example": "Er hat nachts ein Netz vor dem Zelt."
   },
   {
     "id": 7,
@@ -61,8 +55,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "mushroom / fungus",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 8,
@@ -71,24 +64,21 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "protection",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 9,
     "term": "zelten",
     "type": "verb",
     "translation": "to camp",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 10,
     "term": "angenehm",
     "type": "adj",
     "translation": "pleasant",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 11,
@@ -97,8 +87,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "view / outlook",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 12,
@@ -106,16 +95,14 @@
     "type": "verb phrase",
     "translation": "to be included / to be there",
     "chapter": 1,
-    "example": "Im Urlaub am Meer ist für jeden etwas dabei.",
-    [cite_start]"source_ref": "[cite: 3]"
+    "example": "Im Urlaub am Meer ist für jeden etwas dabei."
   },
   {
     "id": 13,
     "term": "drüben",
     "type": "adv",
     "translation": "over there",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 14,
@@ -124,8 +111,7 @@
     "plural": "-se",
     "type": "noun",
     "translation": "experience",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 15,
@@ -134,16 +120,14 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "enjoyment / pleasure",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 16,
     "term": "herrlich",
     "type": "adj",
     "translation": "magnificent / splendid",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 17,
@@ -152,16 +136,14 @@
     "plural": "-n",
     "type": "noun",
     "translation": "coast",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 18,
     "term": "reif",
     "type": "adj",
     "translation": "ripe / mature",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 19,
@@ -170,8 +152,7 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "sand",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 20,
@@ -180,8 +161,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "grape",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 21,
@@ -190,16 +170,14 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "holiday greeting",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 22,
     "term": "derselbe, dasselbe, dieselbe",
     "type": "pronoun",
     "translation": "the same",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 23,
@@ -208,8 +186,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "distance",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 24,
@@ -218,32 +195,28 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "vacation home",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 25,
     "term": "gründlich",
     "type": "adj",
     "translation": "thorough",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 26,
     "term": "rechtzeitig",
     "type": "adj",
     "translation": "on time / punctual",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 27,
     "term": "schick",
     "type": "adj",
     "translation": "chic / stylish",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 28,
@@ -252,8 +225,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "type / guy",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 29,
@@ -262,8 +234,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "type of vacationer",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 30,
@@ -272,8 +243,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "vacation destination",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 31,
@@ -282,16 +252,14 @@
     "plural": "-s",
     "type": "noun",
     "translation": "chat",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 32,
     "term": "erholen (sich)",
     "type": "verb",
     "translation": "to recover / to relax",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 33,
@@ -300,24 +268,21 @@
     "plural": "-e",
     "type": "noun",
     "translation": "compromise",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 34,
     "term": "meinetwegen",
     "type": "adv",
     "translation": "for all I care / as far as I'm concerned",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 35,
     "term": "sorry (ugs.)",
     "type": "interjection",
     "translation": "sorry",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 36,
@@ -326,16 +291,14 @@
     "plural": "-en",
     "type": "noun",
     "translation": "vacation planning",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 37,
     "term": "wieso",
     "type": "adv",
     "translation": "why / how come",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 3]"
+    "chapter": 1
   },
   {
     "id": 38,
@@ -343,24 +306,21 @@
     "type": "particle",
     "translation": "to",
     "chapter": 1,
-    "example": "Ich habe keine Lust, lange nach einer Ferienwohnung zu suchen.",
-    [cite_start]"source_ref": "[cite: 11]"
+    "example": "Ich habe keine Lust, lange nach einer Ferienwohnung zu suchen."
   },
   {
     "id": 39,
     "term": "entspannend",
     "type": "adj",
     "translation": "relaxing",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 40,
     "term": "erfahren",
     "type": "verb",
     "translation": "to experience / to learn",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 41,
@@ -369,8 +329,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "boat trip / shipping",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 42,
@@ -379,24 +338,21 @@
     "plural": "-s",
     "type": "noun",
     "translation": "wellness hotel",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 43,
     "term": "ca. (circa)",
     "type": "adv",
     "translation": "approx.",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 44,
     "term": "enthalten sein (in + D.)",
     "type": "verb",
     "translation": "to be included in",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 45,
@@ -405,8 +361,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "travel time",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 46,
@@ -415,8 +370,7 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "guesthouse",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 47,
@@ -425,16 +379,14 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "half board",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 48,
     "term": "höchstens",
     "type": "adv",
     "translation": "at most",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 49,
@@ -443,8 +395,7 @@
     "plural": "-",
     "type": "noun",
     "translation": "travel agent (male)",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 50,
@@ -453,8 +404,7 @@
     "plural": "-nen",
     "type": "noun",
     "translation": "travel agent (female)",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 51,
@@ -463,8 +413,7 @@
     "plural": "-se",
     "type": "noun",
     "translation": "ski bus",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 52,
@@ -473,8 +422,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "ski resort / ski area",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 53,
@@ -483,8 +431,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "ski lift",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 54,
@@ -493,8 +440,7 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "full board",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 55,
@@ -503,8 +449,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "wellness area",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 56,
@@ -513,8 +458,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "winter vacation",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 57,
@@ -523,8 +467,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "bathtub",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 58,
@@ -533,8 +476,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "boat",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 59,
@@ -542,8 +484,7 @@
     "type": "conjunction",
     "translation": "since / because",
     "chapter": 1,
-    "example": "Da Rothenburg so bekannt ist, kommen viele Touristen in die Stadt.",
-    [cite_start]"source_ref": "[cite: 11]"
+    "example": "Da Rothenburg so bekannt ist, kommen viele Touristen in die Stadt."
   },
   {
     "id": 60,
@@ -552,16 +493,14 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "idea / notion",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 61,
     "term": "enttäuscht",
     "type": "adj",
     "translation": "disappointed",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 62,
@@ -570,16 +509,14 @@
     "plural": "-e",
     "type": "noun",
     "translation": "forum text",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 63,
     "term": "jedenfalls",
     "type": "adv",
     "translation": "in any case",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 64,
@@ -587,40 +524,35 @@
     "type": "verb",
     "translation": "to lie / to be located",
     "chapter": 1,
-    "example": "In Umfragen liegen meistens große Städte vorn.",
-    [cite_start]"source_ref": "[cite: 11]"
+    "example": "In Umfragen liegen meistens große Städte vorn."
   },
   {
     "id": 65,
     "term": "obwohl",
     "type": "conjunction",
     "translation": "although",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 66,
     "term": "offenbar",
     "type": "adj",
     "translation": "apparently / obviously",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 67,
     "term": "solche",
     "type": "pronoun",
     "translation": "such",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 68,
     "term": "spazieren",
     "type": "verb",
     "translation": "to walk / stroll",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 69,
@@ -629,8 +561,7 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "city atmosphere",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 70,
@@ -639,16 +570,14 @@
     "plural": "-n",
     "type": "noun",
     "translation": "beach promenade",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 71,
     "term": "sein weg",
     "type": "phrase",
     "translation": "to be gone / away",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 72,
@@ -657,8 +586,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "beach vacation",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 73,
@@ -667,16 +595,14 @@
     "plural": "-",
     "type": "noun",
     "translation": "adventure",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 74,
     "term": "auf bauen",
     "type": "verb",
     "translation": "to set up / build up",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 11]"
+    "chapter": 1
   },
   {
     "id": 75,
@@ -685,8 +611,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "picture story",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 20]"
+    "chapter": 1
   },
   {
     "id": 76,
@@ -695,16 +620,14 @@
     "type": "noun",
     "translation": "desire / fancy (slang)",
     "chapter": 1,
-    "example": "keinen Bock mehr auf etwas haben",
-    [cite_start]"source_ref": "[cite: 21]"
+    "example": "keinen Bock mehr auf etwas haben"
   },
   {
     "id": 77,
     "term": "brennen",
     "type": "verb",
     "translation": "to burn",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 22]"
+    "chapter": 1
   },
   {
     "id": 78,
@@ -714,8 +637,7 @@
     "type": "noun",
     "translation": "bucket",
     "chapter": 1,
-    "example": "Es regnet! Der ganze Ausflug ist im Eimer!",
-    [cite_start]"source_ref": "[cite: 23, 24]"
+    "example": "Es regnet! Der ganze Ausflug ist im Eimer!"
   },
   {
     "id": 79,
@@ -724,24 +646,21 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "trunk (of a car)",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 25]"
+    "chapter": 1
   },
   {
     "id": 80,
     "term": "mehrfach",
     "type": "adj",
     "translation": "multiple / several times",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 26]"
+    "chapter": 1
   },
   {
     "id": 81,
     "term": "schief gehen",
     "type": "verb",
     "translation": "to go wrong",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 27]"
+    "chapter": 1
   },
   {
     "id": 82,
@@ -749,16 +668,14 @@
     "type": "verb",
     "translation": "to carry / wear",
     "chapter": 1,
-    "example": "Gepäck zum Auto tragen",
-    [cite_start]"source_ref": "[cite: 29]"
+    "example": "Gepäck zum Auto tragen"
   },
   {
     "id": 83,
     "term": "verzweifelt",
     "type": "adj",
     "translation": "desperate",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 31]"
+    "chapter": 1
   },
   {
     "id": 84,
@@ -767,8 +684,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "meadow",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 32]"
+    "chapter": 1
   },
   {
     "id": 85,
@@ -777,16 +693,14 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "stuff / gear",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 33]"
+    "chapter": 1
   },
   {
     "id": 86,
     "term": "fest machen",
     "type": "verb",
     "translation": "to fasten / fix",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 35]"
+    "chapter": 1
   },
   {
     "id": 87,
@@ -795,16 +709,14 @@
     "plural": "-n",
     "type": "noun",
     "translation": "perspective",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 36]"
+    "chapter": 1
   },
   {
     "id": 88,
     "term": "diktieren",
     "type": "verb",
     "translation": "to dictate",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 38]"
+    "chapter": 1
   },
   {
     "id": 89,
@@ -812,8 +724,7 @@
     "type": "adv",
     "translation": "open / up",
     "chapter": 1,
-    "example": "Ohren auf!",
-    [cite_start]"source_ref": "[cite: 41]"
+    "example": "Ohren auf!"
   },
   {
     "id": 90,
@@ -822,8 +733,7 @@
     "plural": "-s",
     "type": "noun",
     "translation": "Intercity-Express (train)",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 43]"
+    "chapter": 1
   },
   {
     "id": 91,
@@ -832,8 +742,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "train number",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 44]"
+    "chapter": 1
   },
   {
     "id": 92,
@@ -842,8 +751,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "bus stop",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 45]"
+    "chapter": 1
   },
   {
     "id": 93,
@@ -852,8 +760,7 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "luggage belt / baggage claim",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 46]"
+    "chapter": 1
   },
   {
     "id": 94,
@@ -862,8 +769,7 @@
     "plural": "\"-",
     "type": "noun",
     "translation": "zoo / tiergarten",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 47]"
+    "chapter": 1
   },
   {
     "id": 95,
@@ -872,8 +778,7 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "main train station",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 48]"
+    "chapter": 1
   },
   {
     "id": 96,
@@ -882,8 +787,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "alpine pasture / mountain hut",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 52]"
+    "chapter": 1
   },
   {
     "id": 97,
@@ -892,8 +796,7 @@
     "plural": "-",
     "type": "noun",
     "translation": "alpine summer",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 53]"
+    "chapter": 1
   },
   {
     "id": 98,
@@ -902,24 +805,21 @@
     "plural": "-e",
     "type": "noun",
     "translation": "vacation on an alp",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 54]"
+    "chapter": 1
   },
   {
     "id": 99,
     "term": "begeistert",
     "type": "adj",
     "translation": "enthusiastic / thrilled",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 55]"
+    "chapter": 1
   },
   {
     "id": 100,
     "term": "beinahe",
     "type": "adv",
     "translation": "almost / nearly",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 56]"
+    "chapter": 1
   },
   {
     "id": 101,
@@ -927,8 +827,7 @@
     "type": "adv",
     "translation": "rather",
     "chapter": 1,
-    "example": "Insgesamt ist es eher einsam hier auf der Alm.",
-    [cite_start]"source_ref": "[cite: 57]"
+    "example": "Insgesamt ist es eher einsam hier auf der Alm."
   },
   {
     "id": 102,
@@ -937,8 +836,7 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "loneliness / solitude",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 59]"
+    "chapter": 1
   },
   {
     "id": 103,
@@ -948,40 +846,35 @@
     "type": "noun",
     "translation": "reception",
     "chapter": 1,
-    "example": "Hier auf dem Berg gibt es keinen Empfang für Handys.",
-    [cite_start]"source_ref": "[cite: 60]"
+    "example": "Hier auf dem Berg gibt es keinen Empfang für Handys."
   },
   {
     "id": 104,
     "term": "entschließen (sich)",
     "type": "verb",
     "translation": "to decide / make up one's mind",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 62]"
+    "chapter": 1
   },
   {
     "id": 105,
     "term": "erholt",
     "type": "adj",
     "translation": "rested / recovered",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 64]"
+    "chapter": 1
   },
   {
     "id": 106,
     "term": "erkälten (sich)",
     "type": "verb",
     "translation": "to catch a cold",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 65]"
+    "chapter": 1
   },
   {
     "id": 107,
     "term": "falls",
     "type": "conjunction",
     "translation": "in case / if",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 66]"
+    "chapter": 1
   },
   {
     "id": 108,
@@ -990,8 +883,7 @@
     "plural": "-",
     "type": "noun",
     "translation": "mountain range",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 74]"
+    "chapter": 1
   },
   {
     "id": 109,
@@ -999,16 +891,14 @@
     "type": "prep",
     "translation": "around (time) / against",
     "chapter": 1,
-    "example": "Wir treffen uns gegen 8 Uhr, okay?",
-    [cite_start]"source_ref": "[cite: 75]"
+    "example": "Wir treffen uns gegen 8 Uhr, okay?"
   },
   {
     "id": 110,
     "term": "heim fahren",
     "type": "verb",
     "translation": "to drive home",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 76]"
+    "chapter": 1
   },
   {
     "id": 111,
@@ -1017,16 +907,14 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "homesickness",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 78]"
+    "chapter": 1
   },
   {
     "id": 112,
     "term": "hierher",
     "type": "adv",
     "translation": "here (direction)",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 80]"
+    "chapter": 1
   },
   {
     "id": 113,
@@ -1035,8 +923,7 @@
     "plural": "-n",
     "type": "noun",
     "translation": "hut / cabin",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 81]"
+    "chapter": 1
   },
   {
     "id": 114,
@@ -1045,24 +932,21 @@
     "plural": "-en",
     "type": "noun",
     "translation": "cheese dairy",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 82]"
+    "chapter": 1
   },
   {
     "id": 115,
     "term": "melken",
     "type": "verb",
     "translation": "to milk",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 83]"
+    "chapter": 1
   },
   {
     "id": 116,
     "term": "momentan",
     "type": "adv",
     "translation": "currently",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 84]"
+    "chapter": 1
   },
   {
     "id": 117,
@@ -1071,8 +955,7 @@
     "plural": "-en",
     "type": "noun",
     "translation": "news / novelty",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 85]"
+    "chapter": 1
   },
   {
     "id": 118,
@@ -1081,8 +964,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "review / look back",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 86]"
+    "chapter": 1
   },
   {
     "id": 119,
@@ -1091,8 +973,7 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "sunrise",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 87]"
+    "chapter": 1
   },
   {
     "id": 120,
@@ -1101,16 +982,14 @@
     "plural": "-",
     "type": "noun",
     "translation": "appointment calendar",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 88]"
+    "chapter": 1
   },
   {
     "id": 121,
     "term": "vorbei sein",
     "type": "verb",
     "translation": "to be over",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 89]"
+    "chapter": 1
   },
   {
     "id": 122,
@@ -1119,8 +998,7 @@
     "plural": "-e",
     "type": "noun",
     "translation": "point in time",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 90]"
+    "chapter": 1
   },
   {
     "id": 123,
@@ -1129,16 +1007,14 @@
     "plural": "-e",
     "type": "noun",
     "translation": "stay on an alp",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 91]"
+    "chapter": 1
   },
   {
     "id": 124,
     "term": "mit arbeiten",
     "type": "verb",
     "translation": "to work together / collaborate",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 92]"
+    "chapter": 1
   },
   {
     "id": 125,
@@ -1147,8 +1023,7 @@
     "plural": "-s",
     "type": "noun",
     "translation": "holiday club",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 94]"
+    "chapter": 1
   },
   {
     "id": 126,
@@ -1157,8 +1032,7 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "olive tree",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 95]"
+    "chapter": 1
   },
   {
     "id": 127,
@@ -1167,7 +1041,6 @@
     "plural": "(Pl.)",
     "type": "noun",
     "translation": "Christmas holidays",
-    "chapter": 1,
-    [cite_start]"source_ref": "[cite: 96]"
+    "chapter": 1
   }
 ]
