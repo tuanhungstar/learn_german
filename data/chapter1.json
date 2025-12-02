@@ -4,14 +4,16 @@
     "term": "faulenzen",
     "type": "verb",
     "translation": "to laze about / to idle",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Am Sonntag möchte ich den ganzen Tag faulenzen."
   },
   {
     "id": 2,
     "term": "giftig",
     "type": "adj",
     "translation": "poisonous / toxic",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Vorsicht, dieser Pilz ist sehr giftig!"
   },
   {
     "id": 3,
@@ -20,14 +22,16 @@
     "plural": "-",
     "type": "noun",
     "translation": "sky / heaven",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Himmel ist heute strahlend blau."
   },
   {
     "id": 4,
     "term": "im Freien",
     "type": "phrase",
     "translation": "outdoors / in the open",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir übernachten heute im Freien."
   },
   {
     "id": 5,
@@ -36,7 +40,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "insect",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ein Insekt ist in mein Getränk geflogen."
   },
   {
     "id": 6,
@@ -55,7 +60,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "mushroom / fungus",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir sammeln Pilze im Wald."
   },
   {
     "id": 8,
@@ -64,21 +70,24 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "protection",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Impfung bietet Schutz vor der Krankheit."
   },
   {
     "id": 9,
     "term": "zelten",
     "type": "verb",
     "translation": "to camp",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir gehen am Wochenende am See zelten."
   },
   {
     "id": 10,
     "term": "angenehm",
     "type": "adj",
     "translation": "pleasant",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Wasser hat eine angenehme Temperatur."
   },
   {
     "id": 11,
@@ -87,7 +96,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "view / outlook",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Vom Turm hat man eine tolle Aussicht."
   },
   {
     "id": 12,
@@ -102,7 +112,8 @@
     "term": "drüben",
     "type": "adv",
     "translation": "over there",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Da drüben ist der Eingang."
   },
   {
     "id": 14,
@@ -111,7 +122,8 @@
     "plural": "-se",
     "type": "noun",
     "translation": "experience",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Urlaub war ein tolles Erlebnis."
   },
   {
     "id": 15,
@@ -120,14 +132,16 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "enjoyment / pleasure",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Dieser Kaffee ist ein echter Genuss."
   },
   {
     "id": 16,
     "term": "herrlich",
     "type": "adj",
     "translation": "magnificent / splendid",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Wetter ist heute einfach herrlich."
   },
   {
     "id": 17,
@@ -136,14 +150,16 @@
     "plural": "-n",
     "type": "noun",
     "translation": "coast",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir fahren an die französische Küste."
   },
   {
     "id": 18,
     "term": "reif",
     "type": "adj",
     "translation": "ripe / mature",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Banane ist noch nicht reif."
   },
   {
     "id": 19,
@@ -152,7 +168,8 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "sand",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Sand am Strand ist sehr heiß."
   },
   {
     "id": 20,
@@ -161,7 +178,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "grape",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich esse gerne rote Trauben."
   },
   {
     "id": 21,
@@ -170,14 +188,16 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "holiday greeting",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er schickte einen kurzen Urlaubsgruß per SMS."
   },
   {
     "id": 22,
     "term": "derselbe, dasselbe, dieselbe",
     "type": "pronoun",
     "translation": "the same",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er trägt heute dasselbe Hemd wie gestern."
   },
   {
     "id": 23,
@@ -186,7 +206,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "distance",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Entfernung zum Hotel beträgt 2 Kilometer."
   },
   {
     "id": 24,
@@ -195,28 +216,32 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "vacation home",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir haben ein Ferienhaus in Spanien gemietet."
   },
   {
     "id": 25,
     "term": "gründlich",
     "type": "adj",
     "translation": "thorough",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Bitte putze die Küche sehr gründlich."
   },
   {
     "id": 26,
     "term": "rechtzeitig",
     "type": "adj",
     "translation": "on time / punctual",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir müssen rechtzeitig am Bahnhof sein."
   },
   {
     "id": 27,
     "term": "schick",
     "type": "adj",
     "translation": "chic / stylish",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Du siehst heute sehr schick aus."
   },
   {
     "id": 28,
@@ -225,7 +250,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "type / guy",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er ist ein lustiger Typ."
   },
   {
     "id": 29,
@@ -234,7 +260,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "type of vacationer",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Welcher Urlaubstyp bist du: Strand oder Berge?"
   },
   {
     "id": 30,
@@ -243,7 +270,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "vacation destination",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Unser nächstes Urlaubsziel ist Italien."
   },
   {
     "id": 31,
@@ -252,14 +280,16 @@
     "plural": "-s",
     "type": "noun",
     "translation": "chat",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir haben uns im Chat unterhalten."
   },
   {
     "id": 32,
     "term": "erholen (sich)",
     "type": "verb",
     "translation": "to recover / to relax",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich muss mich von der Arbeit erholen."
   },
   {
     "id": 33,
@@ -268,21 +298,24 @@
     "plural": "-e",
     "type": "noun",
     "translation": "compromise",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir müssen einen Kompromiss finden."
   },
   {
     "id": 34,
     "term": "meinetwegen",
     "type": "adv",
     "translation": "for all I care / as far as I'm concerned",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Meinetwegen können wir jetzt gehen."
   },
   {
     "id": 35,
     "term": "sorry (ugs.)",
     "type": "interjection",
     "translation": "sorry",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Sorry, ich habe dich nicht gesehen."
   },
   {
     "id": 36,
@@ -291,14 +324,16 @@
     "plural": "-en",
     "type": "noun",
     "translation": "vacation planning",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Urlaubsplanung für den Sommer ist fertig."
   },
   {
     "id": 37,
     "term": "wieso",
     "type": "adv",
     "translation": "why / how come",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wieso hast du das gemacht?"
   },
   {
     "id": 38,
@@ -313,14 +348,16 @@
     "term": "entspannend",
     "type": "adj",
     "translation": "relaxing",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Eine Massage ist sehr entspannend."
   },
   {
     "id": 40,
     "term": "erfahren",
     "type": "verb",
     "translation": "to experience / to learn",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich habe gestern erst davon erfahren."
   },
   {
     "id": 41,
@@ -329,7 +366,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "boat trip / shipping",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Schifffahrt auf der Donau war schön."
   },
   {
     "id": 42,
@@ -338,21 +376,24 @@
     "plural": "-s",
     "type": "noun",
     "translation": "wellness hotel",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir verbringen das Wochenende im Wellnesshotel."
   },
   {
     "id": 43,
     "term": "ca. (circa)",
     "type": "adv",
     "translation": "approx.",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Fahrt dauert ca. zwei Stunden."
   },
   {
     "id": 44,
     "term": "enthalten sein (in + D.)",
     "type": "verb",
     "translation": "to be included in",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Frühstück ist im Preis enthalten."
   },
   {
     "id": 45,
@@ -361,7 +402,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "travel time",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Fahrtzeit beträgt 30 Minuten."
   },
   {
     "id": 46,
@@ -370,7 +412,8 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "guesthouse",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Gästehaus liegt direkt am See."
   },
   {
     "id": 47,
@@ -379,14 +422,16 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "half board",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir haben Halbpension gebucht."
   },
   {
     "id": 48,
     "term": "höchstens",
     "type": "adv",
     "translation": "at most",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das kostet höchstens 10 Euro."
   },
   {
     "id": 49,
@@ -395,7 +440,8 @@
     "plural": "-",
     "type": "noun",
     "translation": "travel agent (male)",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Reisebüro-Mitarbeiter hat uns gut beraten."
   },
   {
     "id": 50,
@@ -404,7 +450,8 @@
     "plural": "-nen",
     "type": "noun",
     "translation": "travel agent (female)",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Reisebüro-Mitarbeiterin buchte unseren Flug."
   },
   {
     "id": 51,
@@ -413,7 +460,8 @@
     "plural": "-se",
     "type": "noun",
     "translation": "ski bus",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Skibus fährt alle 20 Minuten."
   },
   {
     "id": 52,
@@ -422,7 +470,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "ski resort / ski area",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Dieses Skigebiet ist sehr beliebt."
   },
   {
     "id": 53,
@@ -431,7 +480,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "ski lift",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Am Skilift müssen wir warten."
   },
   {
     "id": 54,
@@ -440,7 +490,8 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "full board",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Bei Vollpension sind alle Mahlzeiten inklusive."
   },
   {
     "id": 55,
@@ -449,7 +500,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "wellness area",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Wellness-Bereich hat eine Sauna."
   },
   {
     "id": 56,
@@ -458,7 +510,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "winter vacation",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir fahren in den Winterurlaub nach Österreich."
   },
   {
     "id": 57,
@@ -467,7 +520,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "bathtub",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich entspanne mich gerne in der Badewanne."
   },
   {
     "id": 58,
@@ -476,7 +530,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "boat",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir fahren mit dem Boot auf den See."
   },
   {
     "id": 59,
@@ -493,14 +548,16 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "idea / notion",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das ist ein guter Einfall!"
   },
   {
     "id": 61,
     "term": "enttäuscht",
     "type": "adj",
     "translation": "disappointed",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er war enttäuscht von dem schlechten Hotel."
   },
   {
     "id": 62,
@@ -509,14 +566,16 @@
     "plural": "-e",
     "type": "noun",
     "translation": "forum text",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich habe den Forumstext gelesen."
   },
   {
     "id": 63,
     "term": "jedenfalls",
     "type": "adv",
     "translation": "in any case",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich komme jedenfalls zur Party."
   },
   {
     "id": 64,
@@ -531,28 +590,32 @@
     "term": "obwohl",
     "type": "conjunction",
     "translation": "although",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er geht joggen, obwohl es regnet."
   },
   {
     "id": 66,
     "term": "offenbar",
     "type": "adj",
     "translation": "apparently / obviously",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Offenbar hat er den Zug verpasst."
   },
   {
     "id": 67,
     "term": "solche",
     "type": "pronoun",
     "translation": "such",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Solche Schuhe möchte ich auch haben."
   },
   {
     "id": 68,
     "term": "spazieren",
     "type": "verb",
     "translation": "to walk / stroll",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir spazieren gerne durch den Park."
   },
   {
     "id": 69,
@@ -561,7 +624,8 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "city atmosphere",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich liebe die Stadtatmosphäre von Berlin."
   },
   {
     "id": 70,
@@ -570,14 +634,16 @@
     "plural": "-n",
     "type": "noun",
     "translation": "beach promenade",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir flanieren über die Strandpromenade."
   },
   {
     "id": 71,
     "term": "sein weg",
     "type": "phrase",
     "translation": "to be gone / away",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Mein Schlüssel ist weg."
   },
   {
     "id": 72,
@@ -586,7 +652,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "beach vacation",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir machen dieses Jahr einen Strandurlaub."
   },
   {
     "id": 73,
@@ -595,14 +662,16 @@
     "plural": "-",
     "type": "noun",
     "translation": "adventure",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Reise war ein großes Abenteuer."
   },
   {
     "id": 74,
     "term": "auf bauen",
     "type": "verb",
     "translation": "to set up / build up",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir bauen das Zelt auf."
   },
   {
     "id": 75,
@@ -611,7 +680,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "picture story",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Kinder malen eine Bild-Geschichte."
   },
   {
     "id": 76,
@@ -620,14 +690,15 @@
     "type": "noun",
     "translation": "desire / fancy (slang)",
     "chapter": 1,
-    "example": "keinen Bock mehr auf etwas haben"
+    "example": "Ich habe heute keinen Bock auf Schule."
   },
   {
     "id": 77,
     "term": "brennen",
     "type": "verb",
     "translation": "to burn",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Feuer brennt hell."
   },
   {
     "id": 78,
@@ -646,21 +717,24 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "trunk (of a car)",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Koffer passt nicht in den Kofferraum."
   },
   {
     "id": 80,
     "term": "mehrfach",
     "type": "adj",
     "translation": "multiple / several times",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich habe ihn mehrfach angerufen."
   },
   {
     "id": 81,
     "term": "schief gehen",
     "type": "verb",
     "translation": "to go wrong",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Hoffentlich wird nichts schief gehen."
   },
   {
     "id": 82,
@@ -668,14 +742,15 @@
     "type": "verb",
     "translation": "to carry / wear",
     "chapter": 1,
-    "example": "Gepäck zum Auto tragen"
+    "example": "Kannst du die Tasche tragen?"
   },
   {
     "id": 83,
     "term": "verzweifelt",
     "type": "adj",
     "translation": "desperate",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Sie suchte verzweifelt nach ihrem Schlüssel."
   },
   {
     "id": 84,
@@ -684,7 +759,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "meadow",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Kühe stehen auf der Wiese."
   },
   {
     "id": 85,
@@ -693,14 +769,16 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "stuff / gear",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Räum bitte dein Zeug auf."
   },
   {
     "id": 86,
     "term": "fest machen",
     "type": "verb",
     "translation": "to fasten / fix",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir müssen das Boot fest machen."
   },
   {
     "id": 87,
@@ -709,14 +787,16 @@
     "plural": "-n",
     "type": "noun",
     "translation": "perspective",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Aus meiner Perspektive sieht das anders aus."
   },
   {
     "id": 88,
     "term": "diktieren",
     "type": "verb",
     "translation": "to dictate",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Chef diktiert einen Brief."
   },
   {
     "id": 89,
@@ -733,7 +813,8 @@
     "plural": "-s",
     "type": "noun",
     "translation": "Intercity-Express (train)",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der ICE fährt sehr schnell nach Berlin."
   },
   {
     "id": 91,
@@ -742,7 +823,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "train number",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Zugnummer steht auf dem Ticket."
   },
   {
     "id": 92,
@@ -751,7 +833,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "bus stop",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir warten an der Bushaltestelle."
   },
   {
     "id": 93,
@@ -760,7 +843,8 @@
     "plural": "\"-er",
     "type": "noun",
     "translation": "luggage belt / baggage claim",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir warten am Gepäckband auf unsere Koffer."
   },
   {
     "id": 94,
@@ -769,7 +853,8 @@
     "plural": "\"-",
     "type": "noun",
     "translation": "zoo / tiergarten",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Am Sonntag gehen wir in den Tiergarten."
   },
   {
     "id": 95,
@@ -778,7 +863,8 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "main train station",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir treffen uns am Hauptbahnhof."
   },
   {
     "id": 96,
@@ -787,7 +873,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "alpine pasture / mountain hut",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Die Kühe grasen auf der Alm."
   },
   {
     "id": 97,
@@ -796,7 +883,8 @@
     "plural": "-",
     "type": "noun",
     "translation": "alpine summer",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Almsommer ist wunderschön."
   },
   {
     "id": 98,
@@ -805,21 +893,24 @@
     "plural": "-e",
     "type": "noun",
     "translation": "vacation on an alp",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ein Almurlaub ist sehr ruhig."
   },
   {
     "id": 99,
     "term": "begeistert",
     "type": "adj",
     "translation": "enthusiastic / thrilled",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich bin begeistert von der Idee."
   },
   {
     "id": 100,
     "term": "beinahe",
     "type": "adv",
     "translation": "almost / nearly",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich habe beinahe den Bus verpasst."
   },
   {
     "id": 101,
@@ -836,7 +927,8 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "loneliness / solitude",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Er genießt die Einsamkeit in den Bergen."
   },
   {
     "id": 103,
@@ -853,28 +945,32 @@
     "term": "entschließen (sich)",
     "type": "verb",
     "translation": "to decide / make up one's mind",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ich habe mich entschlossen, Deutsch zu lernen."
   },
   {
     "id": 105,
     "term": "erholt",
     "type": "adj",
     "translation": "rested / recovered",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Nach dem Urlaub fühle ich mich sehr erholt."
   },
   {
     "id": 106,
     "term": "erkälten (sich)",
     "type": "verb",
     "translation": "to catch a cold",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Zieh dich warm an, sonst wirst du dich erkälten."
   },
   {
     "id": 107,
     "term": "falls",
     "type": "conjunction",
     "translation": "in case / if",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Ruf mich an, falls du Hilfe brauchst."
   },
   {
     "id": 108,
@@ -883,7 +979,8 @@
     "plural": "-",
     "type": "noun",
     "translation": "mountain range",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir wandern im Gebirge."
   },
   {
     "id": 109,
@@ -898,7 +995,8 @@
     "term": "heim fahren",
     "type": "verb",
     "translation": "to drive home",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wann wollen wir heim fahren?"
   },
   {
     "id": 111,
@@ -907,14 +1005,16 @@
     "plural": "(Sg.)",
     "type": "noun",
     "translation": "homesickness",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das Kind hat Heimweh nach seinen Eltern."
   },
   {
     "id": 112,
     "term": "hierher",
     "type": "adv",
     "translation": "here (direction)",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Komm bitte mal hierher."
   },
   {
     "id": 113,
@@ -923,7 +1023,8 @@
     "plural": "-n",
     "type": "noun",
     "translation": "hut / cabin",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Wir schlafen in einer Hütte in den Bergen."
   },
   {
     "id": 114,
@@ -932,21 +1033,24 @@
     "plural": "-en",
     "type": "noun",
     "translation": "cheese dairy",
-    "chapter": 1
+    "chapter": 1,
+    "example": "In der Käserei wird frischer Käse gemacht."
   },
   {
     "id": 115,
     "term": "melken",
     "type": "verb",
     "translation": "to milk",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Bauer muss die Kühe melken."
   },
   {
     "id": 116,
     "term": "momentan",
     "type": "adv",
     "translation": "currently",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Momentan habe ich keine Zeit."
   },
   {
     "id": 117,
@@ -955,7 +1059,8 @@
     "plural": "-en",
     "type": "noun",
     "translation": "news / novelty",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Hast du die Neuigkeit schon gehört?"
   },
   {
     "id": 118,
@@ -964,7 +1069,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "review / look back",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Im Rückblick war es eine schöne Zeit."
   },
   {
     "id": 119,
@@ -973,7 +1079,8 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "sunrise",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Sonnenaufgang war spektakulär."
   },
   {
     "id": 120,
@@ -982,14 +1089,16 @@
     "plural": "-",
     "type": "noun",
     "translation": "appointment calendar",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Mein Terminkalender ist voll."
   },
   {
     "id": 121,
     "term": "vorbei sein",
     "type": "verb",
     "translation": "to be over",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Sommer ist leider vorbei."
   },
   {
     "id": 122,
@@ -998,7 +1107,8 @@
     "plural": "-e",
     "type": "noun",
     "translation": "point in time",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Das ist der richtige Zeitpunkt."
   },
   {
     "id": 123,
@@ -1007,14 +1117,16 @@
     "plural": "-e",
     "type": "noun",
     "translation": "stay on an alp",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Der Almaufenthalt war sehr entspannend."
   },
   {
     "id": 124,
     "term": "mit arbeiten",
     "type": "verb",
     "translation": "to work together / collaborate",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Alle müssen bei dem Projekt mit arbeiten."
   },
   {
     "id": 125,
@@ -1023,7 +1135,8 @@
     "plural": "-s",
     "type": "noun",
     "translation": "holiday club",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Im Ferienclub gibt es viele Aktivitäten."
   },
   {
     "id": 126,
@@ -1032,7 +1145,8 @@
     "plural": "\"-e",
     "type": "noun",
     "translation": "olive tree",
-    "chapter": 1
+    "chapter": 1,
+    "example": "Im Garten steht ein alter Olivenbaum."
   },
   {
     "id": 127,
@@ -1041,6 +1155,7 @@
     "plural": "(Pl.)",
     "type": "noun",
     "translation": "Christmas holidays",
-    "chapter": 1
+    "chapter": 1,
+    "example": "In den Weihnachtsferien besuchen wir die Familie."
   }
 ]
