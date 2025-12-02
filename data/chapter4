@@ -1,0 +1,510 @@
+[
+  {
+    "id": 401,
+    "term": "die Akte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "file / record",
+    "chapter": 4,
+    "example": "Der Anwalt studiert die Akte sehr genau."
+  },
+  {
+    "id": 402,
+    "term": "der Angeklagte",
+    "article": "der",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "defendant / accused",
+    "chapter": 4,
+    "example": "Der Angeklagte betritt den Gerichtssaal."
+  },
+  {
+    "id": 403,
+    "term": "die Anlage",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "attachment / enclosure",
+    "chapter": 4,
+    "example": "In der Anlage finden Sie meinen Lebenslauf."
+  },
+  {
+    "id": 404,
+    "term": "das Einkommen",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "income",
+    "chapter": 4,
+    "example": "Er ist zufrieden mit seinem monatlichen Einkommen."
+  },
+  {
+    "id": 405,
+    "term": "gerecht",
+    "type": "adj",
+    "translation": "fair / just",
+    "chapter": 4,
+    "example": "Das Urteil war hart, aber gerecht."
+  },
+  {
+    "id": 406,
+    "term": "das Gericht",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "court (of law)",
+    "chapter": 4,
+    "example": "Wir treffen uns vor Gericht."
+  },
+  {
+    "id": 407,
+    "term": "herstellen",
+    "type": "verb",
+    "translation": "to produce / manufacture",
+    "chapter": 4,
+    "example": "Diese Firma stellt Autos her."
+  },
+  {
+    "id": 408,
+    "term": "der Rechtsanwalt",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "lawyer / attorney",
+    "chapter": 4,
+    "example": "Ich werde meinen Rechtsanwalt anrufen."
+  },
+  {
+    "id": 409,
+    "term": "der Richter",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "judge",
+    "chapter": 4,
+    "example": "Der Richter sprach das Urteil."
+  },
+  {
+    "id": 410,
+    "term": "das Urteil",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "verdict / judgment",
+    "chapter": 4,
+    "example": "Wir müssen das Urteil akzeptieren."
+  },
+  {
+    "id": 411,
+    "term": "das Verbrechen",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "crime",
+    "chapter": 4,
+    "example": "Der Polizei untersucht das Verbrechen."
+  },
+  {
+    "id": 412,
+    "term": "austragen",
+    "type": "verb",
+    "translation": "to deliver / distribute",
+    "chapter": 4,
+    "example": "Der Briefträger trägt die Post aus."
+  },
+  {
+    "id": 413,
+    "term": "geregelt",
+    "type": "adj",
+    "translation": "regulated / regular",
+    "chapter": 4,
+    "example": "Ich habe geregelte Arbeitszeiten."
+  },
+  {
+    "id": 414,
+    "term": "der Mechatroniker",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "mechatronics engineer",
+    "chapter": 4,
+    "example": "Der Mechatroniker repariert den Motor."
+  },
+  {
+    "id": 415,
+    "term": "die Entwicklung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "development",
+    "chapter": 4,
+    "example": "Die technische Entwicklung geht schnell voran."
+  },
+  {
+    "id": 416,
+    "term": "ernst nehmen",
+    "type": "verb",
+    "translation": "to take seriously",
+    "chapter": 4,
+    "example": "Du solltest deine Arbeit ernst nehmen."
+  },
+  {
+    "id": 417,
+    "term": "frei nehmen",
+    "type": "verb",
+    "translation": "to take time off",
+    "chapter": 4,
+    "example": "Morgen werde ich mir frei nehmen."
+  },
+  {
+    "id": 418,
+    "term": "das Besteck",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "cutlery",
+    "chapter": 4,
+    "example": "In der Schublade liegt das Besteck."
+  },
+  {
+    "id": 419,
+    "term": "die Gaststätte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "restaurant / inn",
+    "chapter": 4,
+    "example": "Wir essen heute Abend in einer Gaststätte."
+  },
+  {
+    "id": 420,
+    "term": "der Imbiss",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "snack bar / snack",
+    "chapter": 4,
+    "example": "Ich hole mir schnell einen Imbiss."
+  },
+  {
+    "id": 421,
+    "term": "der Umschlag",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "envelope",
+    "chapter": 4,
+    "example": "Der Brief steckt im Umschlag."
+  },
+  {
+    "id": 422,
+    "term": "irren (sich)",
+    "type": "verb",
+    "translation": "to be mistaken",
+    "chapter": 4,
+    "example": "Ich glaube, du irrst dich."
+  },
+  {
+    "id": 423,
+    "term": "schütten",
+    "type": "verb",
+    "translation": "to pour / spill",
+    "chapter": 4,
+    "example": "Ich habe Kaffee auf mein Hemd geschüttet."
+  },
+  {
+    "id": 424,
+    "term": "verwechseln",
+    "type": "verb",
+    "translation": "to confuse / mix up",
+    "chapter": 4,
+    "example": "Ich habe die beiden Namen verwechselt."
+  },
+  {
+    "id": 425,
+    "term": "die Absicht",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "intention",
+    "chapter": 4,
+    "example": "Das war keine böse Absicht."
+  },
+  {
+    "id": 426,
+    "term": "verzeihen",
+    "type": "verb",
+    "translation": "to forgive",
+    "chapter": 4,
+    "example": "Kannst du mir bitte verzeihen?"
+  },
+  {
+    "id": 427,
+    "term": "der Anhang",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "attachment (email)",
+    "chapter": 4,
+    "example": "Ich sende Ihnen die Datei im Anhang."
+  },
+  {
+    "id": 428,
+    "term": "aussagekräftig",
+    "type": "adj",
+    "translation": "meaningful / significant",
+    "chapter": 4,
+    "example": "Ihre Bewerbung sollte aussagekräftig sein."
+  },
+  {
+    "id": 429,
+    "term": "das Bewerbungsschreiben",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "letter of application",
+    "chapter": 4,
+    "example": "Das Bewerbungsschreiben muss fehlerfrei sein."
+  },
+  {
+    "id": 430,
+    "term": "eignen (sich)",
+    "type": "verb",
+    "translation": "to be suitable",
+    "chapter": 4,
+    "example": "Er eignet sich gut für diesen Job."
+  },
+  {
+    "id": 431,
+    "term": "erkundigen (sich nach)",
+    "type": "verb",
+    "translation": "to inquire about",
+    "chapter": 4,
+    "example": "Ich möchte mich nach der Stelle erkundigen."
+  },
+  {
+    "id": 432,
+    "term": "die Fortbildung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "further education / training",
+    "chapter": 4,
+    "example": "Nächste Woche bin ich auf einer Fortbildung."
+  },
+  {
+    "id": 433,
+    "term": "die Geduld",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "patience",
+    "chapter": 4,
+    "example": "Man braucht viel Geduld bei der Jobsuche."
+  },
+  {
+    "id": 434,
+    "term": "der Lebenslauf",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "CV / resume",
+    "chapter": 4,
+    "example": "Bitte senden Sie uns Ihren Lebenslauf."
+  },
+  {
+    "id": 435,
+    "term": "die Personalabteilung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "HR department",
+    "chapter": 4,
+    "example": "Melden Sie sich bitte bei der Personalabteilung."
+  },
+  {
+    "id": 436,
+    "term": "der Ratgeber",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "guide / advisor (book/person)",
+    "chapter": 4,
+    "example": "Dieser Ratgeber gibt Tipps für die Karriere."
+  },
+  {
+    "id": 437,
+    "term": "die Voraussetzung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "prerequisite / condition",
+    "chapter": 4,
+    "example": "Gute Deutschkenntnisse sind eine Voraussetzung."
+  },
+  {
+    "id": 438,
+    "term": "der Arbeitnehmer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "employee",
+    "chapter": 4,
+    "example": "Die Firma hat über 100 Arbeitnehmer."
+  },
+  {
+    "id": 439,
+    "term": "der Eindruck",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "impression",
+    "chapter": 4,
+    "example": "Er hat einen guten Eindruck hinterlassen."
+  },
+  {
+    "id": 440,
+    "term": "überzeugen",
+    "type": "verb",
+    "translation": "to convince",
+    "chapter": 4,
+    "example": "Ich hoffe, ich kann den Chef überzeugen."
+  },
+  {
+    "id": 441,
+    "term": "das Inserat",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "advertisement (in paper)",
+    "chapter": 4,
+    "example": "Ich habe das Inserat in der Zeitung gelesen."
+  },
+  {
+    "id": 442,
+    "term": "der Stundenlohn",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "hourly wage",
+    "chapter": 4,
+    "example": "Der Stundenlohn beträgt 15 Euro."
+  },
+  {
+    "id": 443,
+    "term": "der Teilzeitjob",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "part-time job",
+    "chapter": 4,
+    "example": "Als Student suche ich einen Teilzeitjob."
+  },
+  {
+    "id": 444,
+    "term": "der Interessent",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "interested person / applicant",
+    "chapter": 4,
+    "example": "Es gibt viele Interessenten für die Wohnung."
+  },
+  {
+    "id": 445,
+    "term": "die Anfahrt",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "journey / approach",
+    "chapter": 4,
+    "example": "Die Anfahrt zum Büro dauert eine Stunde."
+  },
+  {
+    "id": 446,
+    "term": "die Aufregung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "excitement / nervousness",
+    "chapter": 4,
+    "example": "Vor dem Interview war die Aufregung groß."
+  },
+  {
+    "id": 447,
+    "term": "der Bewerber",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "applicant",
+    "chapter": 4,
+    "example": "Der Bewerber wartet im Flur."
+  },
+  {
+    "id": 448,
+    "term": "die Branche",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "industry / sector",
+    "chapter": 4,
+    "example": "In welcher Branche möchtest du arbeiten?"
+  },
+  {
+    "id": 449,
+    "term": "die Fähigkeit",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "ability / skill",
+    "chapter": 4,
+    "example": "Sprachkenntnisse sind eine wichtige Fähigkeit."
+  },
+  {
+    "id": 450,
+    "term": "die Körpersprache",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "body language",
+    "chapter": 4,
+    "example": "Achten Sie auf Ihre Körpersprache."
+  },
+  {
+    "id": 451,
+    "term": "der Unternehmer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "entrepreneur",
+    "chapter": 4,
+    "example": "Er ist ein erfolgreicher Unternehmer."
+  },
+  {
+    "id": 452,
+    "term": "zählen (zu)",
+    "type": "verb",
+    "translation": "to count as / belong to",
+    "chapter": 4,
+    "example": "Pünktlichkeit zählt zu seinen Stärken."
+  },
+  {
+    "id": 453,
+    "term": "der Zweifel",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "doubt",
+    "chapter": 4,
+    "example": "Ich habe keine Zweifel an deiner Kompetenz."
+  },
+  {
+    "id": 454,
+    "term": "vorbeikommen",
+    "type": "verb",
+    "translation": "to come by / drop in",
+    "chapter": 4,
+    "example": "Sie können gerne persönlich vorbeikommen."
+  }
+]
