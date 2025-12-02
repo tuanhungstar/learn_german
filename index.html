@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German Trainer - Folder Mode</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --accent: #e67e22; /* Orange for a change */
+            --success: #27ae60;
+            --danger: #c0392b;
+            --bg: #fdfbf7;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* --- Header & Controls --- */
+        header {
+            width: 100%;
+            max-width: 600px;
+            background: white;
+            padding: 25px;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 { margin: 0 0 20px 0; color: var(--primary); font-size: 1.8rem; }
+
+        .control-panel {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            align-items: center;
+        }
+
+        /* The hidden file input */
+        input[type="file"] {
+            display: none;
+        }
+
+        /* Styled Label acts as button */
+        .folder-btn {
+            background-color: var(--primary);
+            color: white;
+            padding: 12px 25px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.2s;
+            display: inline-block;
+        }
+        .folder-btn:hover { background-color: #34495e; }
+
+        select {
+            padding: 12px;
+            border-radius: 8px;
+            border: 2px solid #eee;
+            font-size: 1rem;
+            width: 100%;
+            max-width: 300px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        /* --- Flashcard --- */
+        .card-area {
+            display: none; /* Hidden until loaded */
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+
+        .stats { color: #95a5a6; font-size: 0.9rem; margin-bottom: 10px; font-weight: 600; }
+
+        .card-container {
+            perspective: 1000px;
+            width: 320px;
+            height: 420px;
+            cursor: pointer;
+        }
+
+        .card {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Bouncy flip */
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            border-radius: 20px;
+        }
+
+        .card.flipped { transform: rotateY(180deg); }
+
+        .card-face {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 20px;
+            padding: 25px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        .card-front { background: white; color: var(--primary); border: 1px solid rgba(0,0,0,0.05); }
+        .card-back { background: var(--primary); color: white; transform: rotateY(180deg); }
+
+        .type-tag {
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 1.5px;
+            margin-bottom: 15px;
+            opacity: 0.6;
+        }
+        
+        .term-large { font-size: 2.2rem; font-weight: 700; margin-bottom: 5px; line-height: 1.2; }
+        .article { font-size: 1rem; font-weight: 400; color: var(--accent); display: block; margin-bottom: 5px;}
+        
+        .translation { font-size: 1.6rem; font-weight: 600; margin-bottom: 15px; }
+        .meta-info { font-size: 0.95rem; opacity: 0.9; line-height: 1.4; }
+        .example-box { 
+            margin-top: 20px; 
+            padding-top: 15px; 
+            border-top: 1px solid rgba(255,255,255,0.2); 
+            font-style: italic; 
+            font-size: 0.9rem;
+        }
+
+        /* --- Buttons & Progress --- */
+        .controls { margin-top: 35px; display: flex; gap: 15px; }
+        
+        button.action-btn {
+            padding: 14px 28px; border: none; border-radius: 12px;
+            font-size: 1rem; cursor: pointer; font-weight: 700;
+            transition: transform 0.1s, box-shadow 0.2s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        button.action-btn:active { transform: scale(0.96); }
+
+        .btn-reveal { background-color: var(--accent); color: white; }
+        .btn-wrong { background-color: var(--danger); color: white; display: none; }
+        .btn-correct { background-color: var(--success); color: white; display: none; }
+
+        .progress-container {
+            width: 320px; height: 8px; background: #e0e0e0;
+            border-radius: 4px; margin-top: 25px; overflow: hidden;
+        }
+        .progress-bar { height: 100%; background: var(--success); width: 0%; transition: width 0.3s; }
+
+        /* Empty State */
+        .empty-state { text-align: center; color: #7f8c8d; margin-top: 40px; line-height: 1.6;}
+        .instruction-step { display: block; margin: 5px 0; }
+
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>🇩🇪 Vocabulary Master</h1>
+        
+        <div class="control-panel">
+            <label for="folderInput" class="folder-btn">
+                📂 Select 'data' Folder
+            </label>
+            <input 
+                type="file" 
+                id="folderInput" 
+                webkitdirectory 
+                directory 
+                multiple 
+                onchange="handleFolderSelection(this.files)"
+            >
+
+            <select id="chapterSelect" onchange="changeChapter()" disabled>
+                <option value="" disabled selected>Load folder first...</option>
+            </select>
+        </div>
+    </header>
+
+    <div id="gameArea" class="card-area">
+        <div class="stats" id="statsDisplay">-- / --</div>
+
+        <div class="card-container" onclick="flipCard()">
+            <div class="card" id="flashcard">
+                <div class="card-face card-front">
+                    <div></div>
+                    <div class="term-large">Ready?</div>
+                </div>
+                <div class="card-face card-back">
+                    <div class="translation">Go!</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="btnWrong" class="action-btn btn-wrong" onclick="nextCard(false)">Again</button>
+            <button id="btnReveal" class="action-btn btn-reveal" onclick="flipCard()">Show Answer</button>
+            <button id="btnCorrect" class="action-btn btn-correct" onclick="nextCard(true)">Good</button>
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+    </div>
+
+    <div id="emptyState" class="empty-state">
+        <h3>How to start:</h3>
+        <span class="instruction-step">1. Click <strong>Select 'data' Folder</strong> above.</span>
+        <span class="instruction-step">2. Choose the folder containing your JSON files.</span>
+        <span class="instruction-step">3. Select a Chapter from the list to begin!</span>
+    </div>
+
+    <script>
+        // --- State ---
+        let library = {}; // Holds all loaded chapters
+        let activeDeck = [];
+        let currentIndex = 0;
+
+        // --- Elements ---
+        const chapterSelect = document.getElementById('chapterSelect');
+        const gameArea = document.getElementById('gameArea');
+        const emptyState = document.getElementById('emptyState');
+        const cardElement = document.getElementById('flashcard');
+        const frontFace = cardElement.querySelector('.card-front');
+        const backFace = cardElement.querySelector('.card-back');
+        const statsDisplay = document.getElementById('statsDisplay');
+        const progressBar = document.getElementById('progressBar');
+        const btnReveal = document.getElementById('btnReveal');
+        const btnWrong = document.getElementById('btnWrong');
+        const btnCorrect = document.getElementById('btnCorrect');
+
+        // --- 1. Load Folder Content ---
+        function handleFolderSelection(files) {
+            if (!files.length) return;
+
+            // Reset library
+            library = {};
+            let validFilesCount = 0;
+
+            // Loop through all files in the folder
+            Array.from(files).forEach(file => {
+                // Only process .json files
+                if (file.name.toLowerCase().endsWith('.json')) {
+                    const reader = new FileReader();
+                    
+                    reader.onload = function(e) {
+                        try {
+                            const content = JSON.parse(e.target.result);
+                            
+                            // Handle both array formats (root array or object with fullContent)
+                            let data = [];
+                            if (Array.isArray(content)) {
+                                data = content;
+                            } else if (content.fullContent && Array.isArray(content.fullContent)) {
+                                data = content.fullContent;
+                            }
+
+                            if (data.length > 0) {
+                                // Use filename as key, remove .json extension
+                                const name = file.name.replace(/\.[^/.]+$/, "");
+                                library[name] = data;
+                                validFilesCount++;
+                                updateDropdown();
+                            }
+                        } catch (err) {
+                            console.log("Skipping invalid JSON:", file.name);
+                        }
+                    };
+                    reader.readAsText(file);
+                }
+            });
+        }
+
+        // --- 2. Update Dropdown ---
+        function updateDropdown() {
+            // Wait a moment for async reads to finish (simplified approach)
+            setTimeout(() => {
+                const keys = Object.keys(library).sort(); // Sort alphabetically
+                
+                if (keys.length === 0) {
+                    alert("No valid JSON files found in that folder.");
+                    return;
+                }
+
+                chapterSelect.innerHTML = '<option value="" disabled selected>Select a Chapter</option>';
+                keys.forEach(key => {
+                    const opt = document.createElement('option');
+                    opt.value = key;
+                    opt.textContent = key; // Filename without extension
+                    chapterSelect.appendChild(opt);
+                });
+                
+                chapterSelect.disabled = false;
+                
+                // If only one chapter, auto-select it
+                if (keys.length === 1) {
+                    chapterSelect.value = keys[0];
+                    changeChapter();
+                }
+            }, 500); // 500ms buffer for file reading
+        }
+
+        // --- 3. Start Game ---
+        function changeChapter() {
+            const key = chapterSelect.value;
+            if (!library[key]) return;
+
+            // Setup Deck
+            activeDeck = [...library[key]];
+            shuffle(activeDeck);
+            currentIndex = 0;
+
+            // Show UI
+            emptyState.style.display = 'none';
+            gameArea.style.display = 'flex';
+            
+            renderCard();
+        }
+
+        function shuffle(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+        }
+
+        // --- 4. Render Logic ---
+        function renderCard() {
+            if (currentIndex >= activeDeck.length) {
+                // End screen
+                frontFace.innerHTML = `<div class="term-large">Fertig! 🎉</div>`;
+                backFace.innerHTML = ``;
+                btnReveal.style.display = 'none';
+                btnWrong.style.display = 'none';
+                btnCorrect.style.display = 'none';
+                statsDisplay.textContent = "Complete!";
+                progressBar.style.width = "100%";
+                return;
+            }
+
+            const item = activeDeck[currentIndex];
+            
+            // FRONT
+            let articleHtml = "";
+            if (item.type === "noun" && item.article) {
+                articleHtml = `<span class="article">${item.article}</span>`;
+            }
+            
+            frontFace.innerHTML = `
+                <div class="type-tag">${item.type || 'Word'}</div>
+                ${articleHtml}
+                <div class="term-large">${item.term}</div>
+            `;
+
+            // BACK
+            let pluralHtml = item.plural ? `<span>Plural: <strong>${item.plural}</strong></span>` : "";
+            let exampleHtml = item.example ? `<div class="example-box">"${item.example}"</div>` : "";
+
+            backFace.innerHTML = `
+                <div class="type-tag">${item.type || 'Word'}</div>
+                <div class="translation">${item.translation}</div>
+                <div class="meta-info">
+                    ${pluralHtml}
+                    ${exampleHtml}
+                </div>
+            `;
+
+            // Reset States
+            cardElement.classList.remove('flipped');
+            btnReveal.style.display = 'inline-block';
+            btnWrong.style.display = 'none';
+            btnCorrect.style.display = 'none';
+            
+            // Progress
+            statsDisplay.textContent = `${currentIndex + 1} / ${activeDeck.length}`;
+            progressBar.style.width = `${(currentIndex / activeDeck.length) * 100}%`;
+        }
+
+        function flipCard() {
+            if (currentIndex >= activeDeck.length) return;
+            cardElement.classList.toggle('flipped');
+            
+            const isFlipped = cardElement.classList.contains('flipped');
+            btnReveal.style.display = isFlipped ? 'none' : 'inline-block';
+            btnWrong.style.display = isFlipped ? 'inline-block' : 'none';
+            btnCorrect.style.display = isFlipped ? 'inline-block' : 'none';
+        }
+
+        function nextCard(known) {
+            // Logic: You can add simple spaced repetition here later.
+            // For now, if unknown, we push it to the end of the current session to review again.
+            if (!known) {
+                activeDeck.push(activeDeck[currentIndex]);
+            }
+            
+            currentIndex++;
+            renderCard();
+        }
+
+    </script>
+</body>
+</html>
