@@ -1,0 +1,702 @@
+[
+  {
+    "id": 501,
+    "term": "der Abfall",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "waste / trash",
+    "chapter": 5,
+    "example": "Wir müssen weniger Abfall produzieren."
+  },
+  {
+    "id": 502,
+    "term": "der Autofahrer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "driver (male)",
+    "chapter": 5,
+    "example": "Der Autofahrer hält an der Ampel an."
+  },
+  {
+    "id": 503,
+    "term": "der Durchschnitt",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "average",
+    "chapter": 5,
+    "example": "Im Durchschnitt verbrauchen wir zu viel Wasser."
+  },
+  {
+    "id": 504,
+    "term": "das Huhn",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "chicken",
+    "chapter": 5,
+    "example": "Das Huhn legt ein Ei."
+  },
+  {
+    "id": 505,
+    "term": "der Marktanteil",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "market share",
+    "chapter": 5,
+    "example": "Der Marktanteil von Bio-Produkten steigt."
+  },
+  {
+    "id": 506,
+    "term": "das Rind",
+    "article": "das",
+    "plural": "-er",
+    "type": "noun",
+    "translation": "beef / cattle",
+    "chapter": 5,
+    "example": "Auf der Weide stehen viele Rinder."
+  },
+  {
+    "id": 507,
+    "term": "das Trinkwasser",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "drinking water",
+    "chapter": 5,
+    "example": "Sauberes Trinkwasser ist sehr wichtig."
+  },
+  {
+    "id": 508,
+    "term": "verbrauchen",
+    "type": "verb",
+    "translation": "to consume / use up",
+    "chapter": 5,
+    "example": "Alte Geräte verbrauchen viel Strom."
+  },
+  {
+    "id": 509,
+    "term": "der Verpackungsmüll",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "packaging waste",
+    "chapter": 5,
+    "example": "Nach dem Einkaufen habe ich viel Verpackungsmüll."
+  },
+  {
+    "id": 510,
+    "term": "das Recycling",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "recycling",
+    "chapter": 5,
+    "example": "Das Recycling von Papier ist sinnvoll."
+  },
+  {
+    "id": 511,
+    "term": "schützen (vor + D.)",
+    "type": "verb",
+    "translation": "to protect (from)",
+    "chapter": 5,
+    "example": "Wir müssen die Natur vor Zerstörung schützen."
+  },
+  {
+    "id": 512,
+    "term": "der Transportweg",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "transport route",
+    "chapter": 5,
+    "example": "Regionale Produkte haben kurze Transportwege."
+  },
+  {
+    "id": 513,
+    "term": "die Herkunft",
+    "article": "die",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "origin",
+    "chapter": 5,
+    "example": "Die Herkunft des Fleisches steht auf der Packung."
+  },
+  {
+    "id": 514,
+    "term": "das Abgas",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "exhaust gas",
+    "chapter": 5,
+    "example": "Autos produzieren viele schädliche Abgase."
+  },
+  {
+    "id": 515,
+    "term": "aufhalten",
+    "type": "verb",
+    "translation": "to stop / hold up",
+    "chapter": 5,
+    "example": "Wir müssen den Klimawandel aufhalten."
+  },
+  {
+    "id": 516,
+    "term": "bekämpfen",
+    "type": "verb",
+    "translation": "to fight / combat",
+    "chapter": 5,
+    "example": "Man muss die Ursachen des Problems bekämpfen."
+  },
+  {
+    "id": 517,
+    "term": "durchsetzen",
+    "type": "verb",
+    "translation": "to enforce / push through",
+    "chapter": 5,
+    "example": "Die Regierung will neue Gesetze durchsetzen."
+  },
+  {
+    "id": 518,
+    "term": "die Erde",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "earth / soil",
+    "chapter": 5,
+    "example": "Wir müssen unsere Erde schützen."
+  },
+  {
+    "id": 519,
+    "term": "erforschen",
+    "type": "verb",
+    "translation": "to research / explore",
+    "chapter": 5,
+    "example": "Wissenschaftler erforschen den Klimawandel."
+  },
+  {
+    "id": 520,
+    "term": "die Ernte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "harvest",
+    "chapter": 5,
+    "example": "Die Ernte war dieses Jahr sehr gut."
+  },
+  {
+    "id": 521,
+    "term": "fördern",
+    "type": "verb",
+    "translation": "to promote / support",
+    "chapter": 5,
+    "example": "Der Staat fördert erneuerbare Energien."
+  },
+  {
+    "id": 522,
+    "term": "der Fortschritt",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "progress",
+    "chapter": 5,
+    "example": "Der technische Fortschritt geht schnell voran."
+  },
+  {
+    "id": 523,
+    "term": "die Klimaerwärmung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "global warming",
+    "chapter": 5,
+    "example": "Die Klimaerwärmung ist ein ernstes Problem."
+  },
+  {
+    "id": 524,
+    "term": "die Maßnahme",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "measure / action",
+    "chapter": 5,
+    "example": "Welche Maßnahmen helfen gegen den Klimawandel?"
+  },
+  {
+    "id": 525,
+    "term": "ökologisch",
+    "type": "adj",
+    "translation": "ecological",
+    "chapter": 5,
+    "example": "Es ist besser, ökologisch zu handeln."
+  },
+  {
+    "id": 526,
+    "term": "die Ressource",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "resource",
+    "chapter": 5,
+    "example": "Wasser ist eine wertvolle Ressource."
+  },
+  {
+    "id": 527,
+    "term": "schädlich",
+    "type": "adj",
+    "translation": "harmful",
+    "chapter": 5,
+    "example": "Rauchen ist schädlich für die Gesundheit."
+  },
+  {
+    "id": 528,
+    "term": "der Umweltschutz",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "environmental protection",
+    "chapter": 5,
+    "example": "Umweltschutz geht uns alle an."
+  },
+  {
+    "id": 529,
+    "term": "die Umweltverschmutzung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "pollution",
+    "chapter": 5,
+    "example": "Die Umweltverschmutzung in den Städten ist hoch."
+  },
+  {
+    "id": 530,
+    "term": "unterstützen",
+    "type": "verb",
+    "translation": "to support",
+    "chapter": 5,
+    "example": "Wir unterstützen das Projekt finanziell."
+  },
+  {
+    "id": 531,
+    "term": "die Ursache",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "cause",
+    "chapter": 5,
+    "example": "Die Ursache des Feuers ist unbekannt."
+  },
+  {
+    "id": 532,
+    "term": "vernichten",
+    "type": "verb",
+    "translation": "to destroy / annihilate",
+    "chapter": 5,
+    "example": "Das Feuer vernichtete den ganzen Wald."
+  },
+  {
+    "id": 533,
+    "term": "verringern",
+    "type": "verb",
+    "translation": "to reduce",
+    "chapter": 5,
+    "example": "Wir müssen unseren CO2-Ausstoß verringern."
+  },
+  {
+    "id": 534,
+    "term": "verschwenden",
+    "type": "verb",
+    "translation": "to waste",
+    "chapter": 5,
+    "example": "Man sollte keine Lebensmittel verschwenden."
+  },
+  {
+    "id": 535,
+    "term": "zerstören",
+    "type": "verb",
+    "translation": "to destroy",
+    "chapter": 5,
+    "example": "Der Sturm hat viele Häuser zerstört."
+  },
+  {
+    "id": 536,
+    "term": "der Begriff",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "term / concept",
+    "chapter": 5,
+    "example": "Dieser Begriff ist schwer zu definieren."
+  },
+  {
+    "id": 537,
+    "term": "berechnen",
+    "type": "verb",
+    "translation": "to calculate",
+    "chapter": 5,
+    "example": "Wir berechnen die Kosten für die Reise."
+  },
+  {
+    "id": 538,
+    "term": "der Fußabdruck",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "footprint",
+    "chapter": 5,
+    "example": "Jeder Mensch hinterlässt einen ökologischen Fußabdruck."
+  },
+  {
+    "id": 539,
+    "term": "der Geschirrspüler",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "dishwasher",
+    "chapter": 5,
+    "example": "Der Geschirrspüler spart Wasser."
+  },
+  {
+    "id": 540,
+    "term": "die Glasflasche",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "glass bottle",
+    "chapter": 5,
+    "example": "Ich kaufe Wasser lieber in der Glasflasche."
+  },
+  {
+    "id": 541,
+    "term": "die Plastikflasche",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "plastic bottle",
+    "chapter": 5,
+    "example": "Plastikflaschen verschmutzen die Meere."
+  },
+  {
+    "id": 542,
+    "term": "der Bedarf",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "need / demand",
+    "chapter": 5,
+    "example": "Der Bedarf an Energie steigt weltweit."
+  },
+  {
+    "id": 543,
+    "term": "effizient",
+    "type": "adj",
+    "translation": "efficient",
+    "chapter": 5,
+    "example": "Neue Geräte arbeiten oft effizienter."
+  },
+  {
+    "id": 544,
+    "term": "die Mehrwegflasche",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "returnable bottle",
+    "chapter": 5,
+    "example": "Mehrwegflaschen sind besser für die Umwelt."
+  },
+  {
+    "id": 545,
+    "term": "die Ökobilanz",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "ecological footprint / balance",
+    "chapter": 5,
+    "example": "Die Ökobilanz von Flugreisen ist schlecht."
+  },
+  {
+    "id": 546,
+    "term": "das Resultat",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "result",
+    "chapter": 5,
+    "example": "Das Resultat der Studie ist überraschend."
+  },
+  {
+    "id": 547,
+    "term": "die Alternative",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "alternative",
+    "chapter": 5,
+    "example": "Das Fahrrad ist eine gute Alternative zum Auto."
+  },
+  {
+    "id": 548,
+    "term": "die Pfandflasche",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "deposit bottle",
+    "chapter": 5,
+    "example": "Bringst du die Pfandflaschen weg?"
+  },
+  {
+    "id": 549,
+    "term": "der Müllberg",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "mountain of trash",
+    "chapter": 5,
+    "example": "Die Müllberge wachsen jeden Tag."
+  },
+  {
+    "id": 550,
+    "term": "nachhaltig",
+    "type": "adj",
+    "translation": "sustainable",
+    "chapter": 5,
+    "example": "Wir sollten nachhaltig leben."
+  },
+  {
+    "id": 551,
+    "term": "der Ökostrom",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "green electricity",
+    "chapter": 5,
+    "example": "Wir beziehen zu Hause Ökostrom."
+  },
+  {
+    "id": 552,
+    "term": "das Pfand",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "deposit",
+    "chapter": 5,
+    "example": "Auf die Dose sind 25 Cent Pfand."
+  },
+  {
+    "id": 553,
+    "term": "recycelbar",
+    "type": "adj",
+    "translation": "recyclable",
+    "chapter": 5,
+    "example": "Dieses Material ist zu 100% recycelbar."
+  },
+  {
+    "id": 554,
+    "term": "die Sonnenenergie",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "solar energy",
+    "chapter": 5,
+    "example": "Sonnenenergie ist kostenlos und sauber."
+  },
+  {
+    "id": 555,
+    "term": "vermeiden",
+    "type": "verb",
+    "translation": "to avoid",
+    "chapter": 5,
+    "example": "Wir sollten Plastikmüll vermeiden."
+  },
+  {
+    "id": 556,
+    "term": "die Verschwendung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "waste / extravagance",
+    "chapter": 5,
+    "example": "Das ist eine reine Verschwendung von Ressourcen."
+  },
+  {
+    "id": 557,
+    "term": "der Blitz",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "lightning",
+    "chapter": 5,
+    "example": "Ich sah einen hellen Blitz am Himmel."
+  },
+  {
+    "id": 558,
+    "term": "der Donner",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "thunder",
+    "chapter": 5,
+    "example": "Nach dem Blitz folgte ein lauter Donner."
+  },
+  {
+    "id": 559,
+    "term": "feucht",
+    "type": "adj",
+    "translation": "damp / humid",
+    "chapter": 5,
+    "example": "Das Gras ist heute Morgen noch feucht."
+  },
+  {
+    "id": 560,
+    "term": "hageln",
+    "type": "verb",
+    "translation": "to hail",
+    "chapter": 5,
+    "example": "Es fing plötzlich an zu hageln."
+  },
+  {
+    "id": 561,
+    "term": "neblig",
+    "type": "adj",
+    "translation": "foggy",
+    "chapter": 5,
+    "example": "Fahr vorsichtig, es ist sehr neblig."
+  },
+  {
+    "id": 562,
+    "term": "nieseln",
+    "type": "verb",
+    "translation": "to drizzle",
+    "chapter": 5,
+    "example": "Es regnet nicht stark, es nieselt nur."
+  },
+  {
+    "id": 563,
+    "term": "regnerisch",
+    "type": "adj",
+    "translation": "rainy",
+    "chapter": 5,
+    "example": "Das Wetter war den ganzen Tag regnerisch."
+  },
+  {
+    "id": 564,
+    "term": "schwül",
+    "type": "adj",
+    "translation": "muggy / humid",
+    "chapter": 5,
+    "example": "Vor dem Gewitter ist es oft schwül."
+  },
+  {
+    "id": 565,
+    "term": "stürmisch",
+    "type": "adj",
+    "translation": "stormy",
+    "chapter": 5,
+    "example": "Am Meer ist es heute sehr stürmisch."
+  },
+  {
+    "id": 566,
+    "term": "die Wettervorhersage",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "weather forecast",
+    "chapter": 5,
+    "example": "Die Wettervorhersage meldet Sonne."
+  },
+  {
+    "id": 567,
+    "term": "der Sturm",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "storm",
+    "chapter": 5,
+    "example": "Der Sturm hat viele Bäume umgeworfen."
+  },
+  {
+    "id": 568,
+    "term": "beteiligen (sich)",
+    "type": "verb",
+    "translation": "to participate",
+    "chapter": 5,
+    "example": "Viele Bürger beteiligen sich an der Aktion."
+  },
+  {
+    "id": 569,
+    "term": "die Bevölkerung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "population",
+    "chapter": 5,
+    "example": "Die Bevölkerung der Stadt wächst."
+  },
+  {
+    "id": 570,
+    "term": "der Bürger",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "citizen",
+    "chapter": 5,
+    "example": "Jeder Bürger hat das Recht zu wählen."
+  },
+  {
+    "id": 571,
+    "term": "das Engagement",
+    "article": "das",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "commitment / engagement",
+    "chapter": 5,
+    "example": "Ihr soziales Engagement ist vorbildlich."
+  },
+  {
+    "id": 572,
+    "term": "das Klima",
+    "article": "das",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "climate",
+    "chapter": 5,
+    "example": "Das Klima verändert sich weltweit."
+  },
+  {
+    "id": 573,
+    "term": "ländlich",
+    "type": "adj",
+    "translation": "rural",
+    "chapter": 5,
+    "example": "Er wohnt in einer ländlichen Gegend."
+  },
+  {
+    "id": 574,
+    "term": "pflanzen",
+    "type": "verb",
+    "translation": "to plant",
+    "chapter": 5,
+    "example": "Wir pflanzen einen Baum im Garten."
+  },
+  {
+    "id": 575,
+    "term": "schaden",
+    "type": "verb",
+    "translation": "to damage / harm",
+    "chapter": 5,
+    "example": "Lärm kann der Gesundheit schaden."
+  },
+  {
+    "id": 576,
+    "term": "die Umweltaktion",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "environmental campaign",
+    "chapter": 5,
+    "example": "Die Schule plant eine große Umweltaktion."
+  }
+]
