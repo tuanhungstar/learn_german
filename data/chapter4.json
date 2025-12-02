@@ -1,0 +1,536 @@
+[
+  {
+    "id": 301,
+    "term": "der Arbeiter",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "worker (male)",
+    "chapter": 3,
+    "example": "Der Arbeiter trägt einen Helm auf der Baustelle."
+  },
+  {
+    "id": 302,
+    "term": "die Arbeiterin",
+    "article": "die",
+    "plural": "-nen",
+    "type": "noun",
+    "translation": "worker (female)",
+    "chapter": 3,
+    "example": "Die Arbeiterin bedient die große Maschine."
+  },
+  {
+    "id": 303,
+    "term": "automatisiert",
+    "type": "adj",
+    "translation": "automated",
+    "chapter": 3,
+    "example": "In dieser Fabrik ist alles automatisiert."
+  },
+  {
+    "id": 304,
+    "term": "die Bedingung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "condition / requirement",
+    "chapter": 3,
+    "example": "Unter dieser Bedingung stimme ich zu."
+  },
+  {
+    "id": 305,
+    "term": "die Behandlung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "treatment",
+    "chapter": 3,
+    "example": "Die medizinische Behandlung war erfolgreich."
+  },
+  {
+    "id": 306,
+    "term": "die Diagnose",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "diagnosis",
+    "chapter": 3,
+    "example": "Der Arzt stellte eine schnelle Diagnose."
+  },
+  {
+    "id": 307,
+    "term": "die Gruppenarbeit",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "group work",
+    "chapter": 3,
+    "example": "In der Schule machen wir oft Gruppenarbeit."
+  },
+  {
+    "id": 308,
+    "term": "die Handarbeit",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "manual labor / handiwork",
+    "chapter": 3,
+    "example": "Dieser Teppich ist echte Handarbeit."
+  },
+  {
+    "id": 309,
+    "term": "die Hygiene",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "hygiene",
+    "chapter": 3,
+    "example": "Im Krankenhaus ist Hygiene sehr wichtig."
+  },
+  {
+    "id": 310,
+    "term": "die Konkurrenz",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "competition",
+    "chapter": 3,
+    "example": "Die Konkurrenz auf dem Markt ist groß."
+  },
+  {
+    "id": 311,
+    "term": "medizinisch",
+    "type": "adj",
+    "translation": "medical",
+    "chapter": 3,
+    "example": "Er braucht medizinische Hilfe."
+  },
+  {
+    "id": 312,
+    "term": "monoton",
+    "type": "adj",
+    "translation": "monotonous",
+    "chapter": 3,
+    "example": "Die Arbeit am Fließband ist sehr monoton."
+  },
+  {
+    "id": 313,
+    "term": "operieren",
+    "type": "verb",
+    "translation": "to operate (medical)",
+    "chapter": 3,
+    "example": "Der Patient muss sofort operiert werden."
+  },
+  {
+    "id": 314,
+    "term": "die Pflegekraft",
+    "article": "die",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "caregiver / nurse",
+    "chapter": 3,
+    "example": "Die Pflegekraft kümmert sich um die Senioren."
+  },
+  {
+    "id": 315,
+    "term": "die Schulbildung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "school education",
+    "chapter": 3,
+    "example": "Eine gute Schulbildung ist wichtig für die Zukunft."
+  },
+  {
+    "id": 316,
+    "term": "die Strafe",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "punishment / fine",
+    "chapter": 3,
+    "example": "Er musste eine Strafe zahlen."
+  },
+  {
+    "id": 317,
+    "term": "tolerant",
+    "type": "adj",
+    "translation": "tolerant",
+    "chapter": 3,
+    "example": "Wir sollten tolerant gegenüber anderen sein."
+  },
+  {
+    "id": 318,
+    "term": "die Unterrichtsform",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "form of teaching",
+    "chapter": 3,
+    "example": "Diskussionen sind eine beliebte Unterrichtsform."
+  },
+  {
+    "id": 319,
+    "term": "der Gegensatz",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "contrast / opposite",
+    "chapter": 3,
+    "example": "Im Gegensatz zu gestern ist es heute warm."
+  },
+  {
+    "id": 320,
+    "term": "ausschließlich",
+    "type": "adv",
+    "translation": "exclusively",
+    "chapter": 3,
+    "example": "Dieser Parkplatz ist ausschließlich für Kunden."
+  },
+  {
+    "id": 321,
+    "term": "bewusst",
+    "type": "adj",
+    "translation": "conscious / aware",
+    "chapter": 3,
+    "example": "Wir sollten uns bewusst ernähren."
+  },
+  {
+    "id": 322,
+    "term": "biologisch",
+    "type": "adj",
+    "translation": "biological / organic",
+    "chapter": 3,
+    "example": "Ich kaufe nur biologisches Gemüse."
+  },
+  {
+    "id": 323,
+    "term": "die Diät",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "diet",
+    "chapter": 3,
+    "example": "Sie macht eine Diät, um abzunehmen."
+  },
+  {
+    "id": 324,
+    "term": "ernähren (sich)",
+    "type": "verb",
+    "translation": "to feed oneself / to eat",
+    "chapter": 3,
+    "example": "Er ernährt sich sehr gesund."
+  },
+  {
+    "id": 325,
+    "term": "die Ernährung",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "nutrition / diet",
+    "chapter": 3,
+    "example": "Gesunde Ernährung ist wichtig für den Körper."
+  },
+  {
+    "id": 326,
+    "term": "die Fitness",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "fitness",
+    "chapter": 3,
+    "example": "Er trainiert jeden Tag für seine Fitness."
+  },
+  {
+    "id": 327,
+    "term": "die Frucht",
+    "article": "die",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "fruit",
+    "chapter": 3,
+    "example": "Die Mango ist eine süße Frucht."
+  },
+  {
+    "id": 328,
+    "term": "halten (Diät halten)",
+    "type": "verb",
+    "translation": "to keep / hold (to go on a diet)",
+    "chapter": 3,
+    "example": "Es ist schwer, streng Diät zu halten."
+  },
+  {
+    "id": 329,
+    "term": "das Nahrungsmittel",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "foodstuff / food",
+    "chapter": 3,
+    "example": "Brot ist ein wichtiges Nahrungsmittel."
+  },
+  {
+    "id": 330,
+    "term": "der Trend",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "trend",
+    "chapter": 3,
+    "example": "Vegan zu essen ist ein großer Trend."
+  },
+  {
+    "id": 331,
+    "term": "vegan",
+    "type": "adj",
+    "translation": "vegan",
+    "chapter": 3,
+    "example": "In diesem Restaurant gibt es vegane Gerichte."
+  },
+  {
+    "id": 332,
+    "term": "vegetarisch",
+    "type": "adj",
+    "translation": "vegetarian",
+    "chapter": 3,
+    "example": "Ich esse kein Fleisch, ich lebe vegetarisch."
+  },
+  {
+    "id": 333,
+    "term": "das Vitamin",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "vitamin",
+    "chapter": 3,
+    "example": "Orangen haben viel Vitamin C."
+  },
+  {
+    "id": 334,
+    "term": "erben",
+    "type": "verb",
+    "translation": "to inherit",
+    "chapter": 3,
+    "example": "Er hat das Haus von seiner Oma geerbt."
+  },
+  {
+    "id": 335,
+    "term": "weshalb",
+    "type": "adv",
+    "translation": "why / for what reason",
+    "chapter": 3,
+    "example": "Weshalb hast du das getan?"
+  },
+  {
+    "id": 336,
+    "term": "führen (zu + D.)",
+    "type": "verb",
+    "translation": "to lead to",
+    "chapter": 3,
+    "example": "Stress kann zu Krankheiten führen."
+  },
+  {
+    "id": 337,
+    "term": "gewohnt",
+    "type": "adj",
+    "translation": "accustomed / usual",
+    "chapter": 3,
+    "example": "Alles läuft in gewohnten Bahnen."
+  },
+  {
+    "id": 338,
+    "term": "die Krisensituation",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "crisis situation",
+    "chapter": 3,
+    "example": "In einer Krisensituation muss man ruhig bleiben."
+  },
+  {
+    "id": 339,
+    "term": "die Lebensgeschichte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "life story",
+    "chapter": 3,
+    "example": "Opa erzählte uns seine spannende Lebensgeschichte."
+  },
+  {
+    "id": 340,
+    "term": "der Lebensweg",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "path of life",
+    "chapter": 3,
+    "example": "Ihr Lebensweg war nicht immer einfach."
+  },
+  {
+    "id": 341,
+    "term": "der Prozess",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "process / trial",
+    "chapter": 3,
+    "example": "Das Lernen ist ein langer Prozess."
+  },
+  {
+    "id": 342,
+    "term": "raus",
+    "type": "adv",
+    "translation": "out",
+    "chapter": 3,
+    "example": "Ich muss hier raus!"
+  },
+  {
+    "id": 343,
+    "term": "der Todesfall",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "death / bereavement",
+    "chapter": 3,
+    "example": "Es gab einen Todesfall in der Familie."
+  },
+  {
+    "id": 344,
+    "term": "die Trennung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "separation / breakup",
+    "chapter": 3,
+    "example": "Die Trennung war für beide schwer."
+  },
+  {
+    "id": 345,
+    "term": "der Wendepunkt",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "turning point",
+    "chapter": 3,
+    "example": "Der Unfall war ein Wendepunkt in seinem Leben."
+  },
+  {
+    "id": 346,
+    "term": "das Anliegen",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "concern / request",
+    "chapter": 3,
+    "example": "Ich habe ein wichtiges Anliegen an dich."
+  },
+  {
+    "id": 347,
+    "term": "der Berufssoldat",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "professional soldier",
+    "chapter": 3,
+    "example": "Er arbeitet als Berufssoldat bei der Bundeswehr."
+  },
+  {
+    "id": 348,
+    "term": "einsetzen (sich für)",
+    "type": "verb",
+    "translation": "to stand up for / advocate",
+    "chapter": 3,
+    "example": "Sie setzt sich für den Tierschutz ein."
+  },
+  {
+    "id": 349,
+    "term": "die Herausforderung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "challenge",
+    "chapter": 3,
+    "example": "Der neue Job ist eine große Herausforderung."
+  },
+  {
+    "id": 350,
+    "term": "der Mut",
+    "article": "der",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "courage",
+    "chapter": 3,
+    "example": "Man braucht Mut für Veränderungen."
+  },
+  {
+    "id": 351,
+    "term": "die Rückkehr",
+    "article": "die",
+    "plural": "(Sg.)",
+    "type": "noun",
+    "translation": "return",
+    "chapter": 3,
+    "example": "Wir feierten seine Rückkehr aus dem Ausland."
+  },
+  {
+    "id": 352,
+    "term": "sammeln (Erfahrung)",
+    "type": "verb",
+    "translation": "to gather / collect (experience)",
+    "chapter": 3,
+    "example": "Im Praktikum konnte ich viel Erfahrung sammeln."
+  },
+  {
+    "id": 353,
+    "term": "schließlich",
+    "type": "adv",
+    "translation": "finally / eventually",
+    "chapter": 3,
+    "example": "Schließlich haben wir das Ziel erreicht."
+  },
+  {
+    "id": 354,
+    "term": "die Sehnsucht",
+    "article": "die",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "longing / yearning",
+    "chapter": 3,
+    "example": "Sie hatte große Sehnsucht nach dem Meer."
+  },
+  {
+    "id": 355,
+    "term": "verursachen",
+    "type": "verb",
+    "translation": "to cause",
+    "chapter": 3,
+    "example": "Der Sturm verursachte große Schäden."
+  },
+  {
+    "id": 356,
+    "term": "wesentlich",
+    "type": "adj",
+    "translation": "essential / significant",
+    "chapter": 3,
+    "example": "Das ist ein wesentlicher Punkt."
+  },
+  {
+    "id": 357,
+    "term": "der Wildhüter",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "game warden / ranger",
+    "chapter": 3,
+    "example": "Der Wildhüter beschützt die Tiere im Park."
+  },
+  {
+    "id": 358,
+    "term": "zufällig",
+    "type": "adj",
+    "translation": "accidental / by chance",
+    "chapter": 3,
+    "example": "Wir haben uns zufällig auf der Straße getroffen."
+  }
+]
