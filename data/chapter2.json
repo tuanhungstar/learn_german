@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 201,
+    "term": "benötigen",
+    "type": "verb",
+    "translation": "to need / require",
+    "chapter": 2,
+    "example": "Für dieses Rezept benötigen wir frische Eier."
+  },
+  {
+    "id": 202,
+    "term": "der Fingerabdruck",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "fingerprint",
+    "chapter": 2,
+    "example": "Das Handy lässt sich per Fingerabdruck entsperren."
+  },
+  {
+    "id": 203,
+    "term": "der Funkkopfhörer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "wireless headphones",
+    "chapter": 2,
+    "example": "Mit dem Funkkopfhörer kann ich mich frei bewegen."
+  },
+  {
+    "id": 204,
+    "term": "das Lastenfahrrad",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "cargo bike",
+    "chapter": 2,
+    "example": "Er transportiert die Einkäufe mit dem Lastenfahrrad."
+  },
+  {
+    "id": 205,
+    "term": "der Sprachassistent",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "voice assistant",
+    "chapter": 2,
+    "example": "Ich frage meinen Sprachassistenten nach dem Wetter."
+  },
+  {
+    "id": 206,
+    "term": "der Steh-Sitz-Tisch",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "adjustable standing desk",
+    "chapter": 2,
+    "example": "Im Büro habe ich einen ergonomischen Steh-Sitz-Tisch."
+  },
+  {
+    "id": 207,
+    "term": "der Türöffner",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "door opener",
+    "chapter": 2,
+    "example": "Der elektrische Türöffner funktioniert nicht."
+  },
+  {
+    "id": 208,
+    "term": "der Slogan",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "slogan",
+    "chapter": 2,
+    "example": "Der Slogan der Firma ist sehr bekannt."
+  },
+  {
+    "id": 209,
+    "term": "die Taste",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "button / key",
+    "chapter": 2,
+    "example": "Drücken Sie die grüne Taste zum Starten."
+  },
+  {
+    "id": 210,
+    "term": "der Transport",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "transport",
+    "chapter": 2,
+    "example": "Der Transport der Möbel war teuer."
+  },
+  {
+    "id": 211,
+    "term": "anschließen",
+    "type": "verb",
+    "translation": "to connect / plug in",
+    "chapter": 2,
+    "example": "Er schließt den Lautsprecher an den Laptop an."
+  },
+  {
+    "id": 212,
+    "term": "aufladen",
+    "type": "verb",
+    "translation": "to charge",
+    "chapter": 2,
+    "example": "Ich muss mein Handy dringend aufladen."
+  },
+  {
+    "id": 213,
+    "term": "bedienen",
+    "type": "verb",
+    "translation": "to operate / use",
+    "chapter": 2,
+    "example": "Diese Maschine ist einfach zu bedienen."
+  },
+  {
+    "id": 214,
+    "term": "einsetzen",
+    "type": "verb",
+    "translation": "to insert / put in",
+    "chapter": 2,
+    "example": "Du musst die Batterie richtig einsetzen."
+  },
+  {
+    "id": 215,
+    "term": "einstecken",
+    "type": "verb",
+    "translation": "to plug in / insert",
+    "chapter": 2,
+    "example": "Vergiss nicht, das Kabel einzustecken."
+  },
+  {
+    "id": 216,
+    "term": "installieren",
+    "type": "verb",
+    "translation": "to install",
+    "chapter": 2,
+    "example": "Ich installiere gerade eine neue App."
+  },
+  {
+    "id": 217,
+    "term": "schalten",
+    "type": "verb",
+    "translation": "to switch",
+    "chapter": 2,
+    "example": "Bitte schalten Sie das Handy stumm."
+  },
+  {
+    "id": 218,
+    "term": "stumm",
+    "type": "adj",
+    "translation": "silent / mute",
+    "chapter": 2,
+    "example": "Der Film ist stumm, ohne Ton."
+  },
+  {
+    "id": 219,
+    "term": "die Anleitung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "instruction / manual",
+    "chapter": 2,
+    "example": "Lies bitte zuerst die Anleitung."
+  },
+  {
+    "id": 220,
+    "term": "anschaffen (sich)",
+    "type": "verb",
+    "translation": "to buy / acquire",
+    "chapter": 2,
+    "example": "Wir wollen uns ein neues Auto anschaffen."
+  },
+  {
+    "id": 221,
+    "term": "bloß",
+    "type": "particle",
+    "translation": "only / just",
+    "chapter": 2,
+    "example": "Was habe ich bloß falsch gemacht?"
+  },
+  {
+    "id": 222,
+    "term": "die Frage",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "question",
+    "chapter": 2,
+    "example": "Ich stehe vor einer schwierigen Frage."
+  },
+  {
+    "id": 223,
+    "term": "der Handyladen",
+    "article": "der",
+    "plural": "\"-",
+    "type": "noun",
+    "translation": "mobile phone shop",
+    "chapter": 2,
+    "example": "Im Handyladen gibt es viele neue Modelle."
+  },
+  {
+    "id": 224,
+    "term": "herunterfallen",
+    "type": "verb",
+    "translation": "to fall down / drop",
+    "chapter": 2,
+    "example": "Mein Glas ist heruntergefallen."
+  },
+  {
+    "id": 225,
+    "term": "irgendetwas",
+    "type": "pronoun",
+    "translation": "something / anything",
+    "chapter": 2,
+    "example": "Ich muss irgendetwas essen."
+  },
+  {
+    "id": 226,
+    "term": "kaputtgehen",
+    "type": "verb",
+    "translation": "to break / go bust",
+    "chapter": 2,
+    "example": "Die Waschmaschine ist kaputtgegangen."
+  },
+  {
+    "id": 227,
+    "term": "kommen (auf den Markt)",
+    "type": "verb",
+    "translation": "to be released / come to market",
+    "chapter": 2,
+    "example": "Das neue Handy kommt bald auf den Markt."
+  },
+  {
+    "id": 228,
+    "term": "lohnen (sich)",
+    "type": "verb",
+    "translation": "to be worth it",
+    "chapter": 2,
+    "example": "Es lohnt sich, früh aufzustehen."
+  },
+  {
+    "id": 229,
+    "term": "das Sonderangebot",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "special offer",
+    "chapter": 2,
+    "example": "Diese Jacke ist ein Sonderangebot."
+  },
+  {
+    "id": 230,
+    "term": "der Staubsauger",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "vacuum cleaner",
+    "chapter": 2,
+    "example": "Der Staubsauger ist sehr laut."
+  },
+  {
+    "id": 231,
+    "term": "technisch",
+    "type": "adj",
+    "translation": "technical",
+    "chapter": 2,
+    "example": "Das Gerät hat einen technischen Defekt."
+  },
+  {
+    "id": 232,
+    "term": "der Knopf",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "button / knob",
+    "chapter": 2,
+    "example": "An meiner Jacke fehlt ein Knopf."
+  },
+  {
+    "id": 233,
+    "term": "nähen",
+    "type": "verb",
+    "translation": "to sew",
+    "chapter": 2,
+    "example": "Kannst du den Knopf annähen?"
+  },
+  {
+    "id": 234,
+    "term": "reinigen",
+    "type": "verb",
+    "translation": "to clean",
+    "chapter": 2,
+    "example": "Ich lasse meinen Anzug reinigen."
+  },
+  {
+    "id": 235,
+    "term": "streichen",
+    "type": "verb",
+    "translation": "to paint (walls)",
+    "chapter": 2,
+    "example": "Wir streichen die Wände weiß."
+  },
+  {
+    "id": 236,
+    "term": "der Kopfhörer",
+    "article": "der",
+    "plural": "-",
+    "type": "noun",
+    "translation": "headphones",
+    "chapter": 2,
+    "example": "Ich höre Musik über Kopfhörer."
+  },
+  {
+    "id": 237,
+    "term": "das Ladekabel",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "charging cable",
+    "chapter": 2,
+    "example": "Hast du ein Ladekabel für mein Handy?"
+  },
+  {
+    "id": 238,
+    "term": "die Powerbank",
+    "article": "die",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "power bank",
+    "chapter": 2,
+    "example": "Meine Powerbank ist leer."
+  },
+  {
+    "id": 239,
+    "term": "daher",
+    "type": "adv",
+    "translation": "therefore",
+    "chapter": 2,
+    "example": "Es regnet, daher bleiben wir zu Hause."
+  },
+  {
+    "id": 240,
+    "term": "darum",
+    "type": "adv",
+    "translation": "that's why",
+    "chapter": 2,
+    "example": "Mein Auto ist kaputt, darum nehme ich den Bus."
+  },
+  {
+    "id": 241,
+    "term": "deswegen",
+    "type": "adv",
+    "translation": "because of that / therefore",
+    "chapter": 2,
+    "example": "Ich bin krank, deswegen komme ich nicht."
+  },
+  {
+    "id": 242,
+    "term": "der Handyakku",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "mobile phone battery",
+    "chapter": 2,
+    "example": "Der Handyakku hält nicht lange."
+  },
+  {
+    "id": 243,
+    "term": "sodass",
+    "type": "conjunction",
+    "translation": "so that",
+    "chapter": 2,
+    "example": "Er sprach laut, sodass alle ihn hörten."
+  },
+  {
+    "id": 244,
+    "term": "der Stick",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "USB stick",
+    "chapter": 2,
+    "example": "Ich habe die Daten auf dem Stick gespeichert."
+  },
+  {
+    "id": 245,
+    "term": "anhaben",
+    "type": "verb",
+    "translation": "to have on / wear",
+    "chapter": 2,
+    "example": "Was hast du heute an?"
+  },
+  {
+    "id": 246,
+    "term": "dabeihaben",
+    "type": "verb",
+    "translation": "to have with one",
+    "chapter": 2,
+    "example": "Hast du deinen Ausweis dabei?"
+  },
+  {
+    "id": 247,
+    "term": "diesmal",
+    "type": "adv",
+    "translation": "this time",
+    "chapter": 2,
+    "example": "Diesmal machen wir es besser."
+  },
+  {
+    "id": 248,
+    "term": "die EC-Karte",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "debit card",
+    "chapter": 2,
+    "example": "Kann ich mit EC-Karte bezahlen?"
+  },
+  {
+    "id": 249,
+    "term": "die Gebrauchsanweisung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "instructions for use",
+    "chapter": 2,
+    "example": "Die Gebrauchsanweisung ist sehr lang."
+  },
+  {
+    "id": 250,
+    "term": "die Geheimzahl",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "PIN code",
+    "chapter": 2,
+    "example": "Bitte geben Sie Ihre Geheimzahl ein."
+  },
+  {
+    "id": 251,
+    "term": "der Geldautomat",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "ATM",
+    "chapter": 2,
+    "example": "Ich hole Geld am Geldautomaten."
+  },
+  {
+    "id": 252,
+    "term": "das Girokonto",
+    "article": "das",
+    "plural": "-konten",
+    "type": "noun",
+    "translation": "checking account",
+    "chapter": 2,
+    "example": "Ich habe ein Girokonto bei der Sparkasse."
+  },
+  {
+    "id": 253,
+    "term": "gratis",
+    "type": "adj",
+    "translation": "free (of charge)",
+    "chapter": 2,
+    "example": "Die Getränke sind gratis."
+  },
+  {
+    "id": 254,
+    "term": "nachsehen",
+    "type": "verb",
+    "translation": "to check / look up",
+    "chapter": 2,
+    "example": "Ich muss kurz in meinen Unterlagen nachsehen."
+  },
+  {
+    "id": 255,
+    "term": "das Portemonnaie",
+    "article": "das",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "wallet / purse",
+    "chapter": 2,
+    "example": "Ich habe mein Portemonnaie vergessen."
+  },
+  {
+    "id": 256,
+    "term": "der Rabatt",
+    "article": "der",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "discount",
+    "chapter": 2,
+    "example": "Es gibt heute 20 Prozent Rabatt."
+  },
+  {
+    "id": 257,
+    "term": "rein",
+    "type": "adj",
+    "translation": "pure / sheer",
+    "chapter": 2,
+    "example": "Es war reines Glück, dass ich es gefunden habe."
+  },
+  {
+    "id": 258,
+    "term": "verraten",
+    "type": "verb",
+    "translation": "to reveal / betray",
+    "chapter": 2,
+    "example": "Er hat mir das Geheimnis verraten."
+  },
+  {
+    "id": 259,
+    "term": "zurückgehen",
+    "type": "verb",
+    "translation": "to go back",
+    "chapter": 2,
+    "example": "Wir gehen den gleichen Weg zurück."
+  },
+  {
+    "id": 260,
+    "term": "zurückzahlen",
+    "type": "verb",
+    "translation": "to pay back",
+    "chapter": 2,
+    "example": "Ich werde dir das Geld morgen zurückzahlen."
+  },
+  {
+    "id": 261,
+    "term": "die Garantie",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "warranty",
+    "chapter": 2,
+    "example": "Auf das Gerät gibt es zwei Jahre Garantie."
+  },
+  {
+    "id": 262,
+    "term": "laden",
+    "type": "verb",
+    "translation": "to load / charge",
+    "chapter": 2,
+    "example": "Die Seite lädt sehr langsam."
+  },
+  {
+    "id": 263,
+    "term": "die Quittung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "receipt",
+    "chapter": 2,
+    "example": "Brauchen Sie eine Quittung?"
+  },
+  {
+    "id": 264,
+    "term": "reklamieren",
+    "type": "verb",
+    "translation": "to complain / claim",
+    "chapter": 2,
+    "example": "Ich möchte die kaputte Ware reklamieren."
+  },
+  {
+    "id": 265,
+    "term": "testen",
+    "type": "verb",
+    "translation": "to test",
+    "chapter": 2,
+    "example": "Wir testen das neue Spiel."
+  },
+  {
+    "id": 266,
+    "term": "die Technologie",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "technology",
+    "chapter": 2,
+    "example": "Die Technologie entwickelt sich schnell."
+  },
+  {
+    "id": 267,
+    "term": "die Vorstellung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "idea / imagination",
+    "chapter": 2,
+    "example": "Hast du eine Vorstellung, wie das aussieht?"
+  },
+  {
+    "id": 268,
+    "term": "die Alarmanlage",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "alarm system",
+    "chapter": 2,
+    "example": "Die Alarmanlage schützt vor Einbrechern."
+  },
+  {
+    "id": 269,
+    "term": "die Ausnahme",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "exception",
+    "chapter": 2,
+    "example": "Heute machen wir eine Ausnahme."
+  },
+  {
+    "id": 270,
+    "term": "bemerken",
+    "type": "verb",
+    "translation": "to notice",
+    "chapter": 2,
+    "example": "Ich habe den Fehler nicht bemerkt."
+  },
+  {
+    "id": 271,
+    "term": "bereits",
+    "type": "adv",
+    "translation": "already",
+    "chapter": 2,
+    "example": "Der Zug ist bereits abgefahren."
+  },
+  {
+    "id": 272,
+    "term": "berühren",
+    "type": "verb",
+    "translation": "to touch",
+    "chapter": 2,
+    "example": "Bitte berühren Sie die Kunstwerke nicht."
+  },
+  {
+    "id": 273,
+    "term": "der Einbruch",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "burglary",
+    "chapter": 2,
+    "example": "Es gab einen Einbruch in der Nachbarschaft."
+  },
+  {
+    "id": 274,
+    "term": "gleichzeitig",
+    "type": "adj",
+    "translation": "simultaneously",
+    "chapter": 2,
+    "example": "Sie kamen gleichzeitig an."
+  },
+  {
+    "id": 275,
+    "term": "die Haustür",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "front door",
+    "chapter": 2,
+    "example": "Ich habe den Schlüssel in der Haustür stecken lassen."
+  },
+  {
+    "id": 276,
+    "term": "hinsehen",
+    "type": "verb",
+    "translation": "to look closely",
+    "chapter": 2,
+    "example": "Du musst genau hinsehen."
+  },
+  {
+    "id": 277,
+    "term": "die Jalousie",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "blinds",
+    "chapter": 2,
+    "example": "Mach bitte die Jalousie runter."
+  },
+  {
+    "id": 278,
+    "term": "das Magazin",
+    "article": "das",
+    "plural": "-e",
+    "type": "noun",
+    "translation": "magazine",
+    "chapter": 2,
+    "example": "Ich lese gerne dieses Magazin."
+  },
+  {
+    "id": 279,
+    "term": "der Monitor",
+    "article": "der",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "monitor",
+    "chapter": 2,
+    "example": "Der Monitor ist sehr groß."
+  },
+  {
+    "id": 280,
+    "term": "der Neubau",
+    "article": "der",
+    "plural": "-ten",
+    "type": "noun",
+    "translation": "new building",
+    "chapter": 2,
+    "example": "Wir ziehen in einen Neubau."
+  },
+  {
+    "id": 281,
+    "term": "die Nutzung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "usage",
+    "chapter": 2,
+    "example": "Die Nutzung des Internets ist kostenlos."
+  },
+  {
+    "id": 282,
+    "term": "sicher",
+    "type": "adj",
+    "translation": "safe / sure",
+    "chapter": 2,
+    "example": "Hier fühlen wir uns sicher."
+  },
+  {
+    "id": 283,
+    "term": "smart",
+    "type": "adj",
+    "translation": "smart / clever",
+    "chapter": 2,
+    "example": "Das ist eine smarte Lösung."
+  },
+  {
+    "id": 284,
+    "term": "das Smart Home",
+    "article": "das",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "smart home",
+    "chapter": 2,
+    "example": "Er steuert sein Smart Home per Handy."
+  },
+  {
+    "id": 285,
+    "term": "steuern",
+    "type": "verb",
+    "translation": "to control / steer",
+    "chapter": 2,
+    "example": "Man kann die Heizung fernsteuern."
+  },
+  {
+    "id": 286,
+    "term": "der Tagesablauf",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "daily routine",
+    "chapter": 2,
+    "example": "Mein Tagesablauf ist sehr geregelt."
+  },
+  {
+    "id": 287,
+    "term": "die Videonachricht",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "video message",
+    "chapter": 2,
+    "example": "Ich schicke dir eine Videonachricht."
+  },
+  {
+    "id": 288,
+    "term": "die Wand",
+    "article": "die",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "wall",
+    "chapter": 2,
+    "example": "An der Wand hängt ein Bild."
+  },
+  {
+    "id": 289,
+    "term": "die Zentrale",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "headquarters / center",
+    "chapter": 2,
+    "example": "Die Zentrale befindet sich in Berlin."
+  },
+  {
+    "id": 290,
+    "term": "zu Besuch kommen",
+    "type": "phrase",
+    "translation": "to come to visit",
+    "chapter": 2,
+    "example": "Meine Eltern kommen morgen zu Besuch."
+  },
+  {
+    "id": 291,
+    "term": "anpassen",
+    "type": "verb",
+    "translation": "to adjust / adapt",
+    "chapter": 2,
+    "example": "Man kann die Einstellungen anpassen."
+  },
+  {
+    "id": 292,
+    "term": "einschalten",
+    "type": "verb",
+    "translation": "to switch on",
+    "chapter": 2,
+    "example": "Vergiss nicht, das Licht einzuschalten."
+  },
+  {
+    "id": 293,
+    "term": "geschehen",
+    "type": "verb",
+    "translation": "to happen",
+    "chapter": 2,
+    "example": "Was ist hier geschehen?"
+  },
+  {
+    "id": 294,
+    "term": "leisten (sich)",
+    "type": "verb",
+    "translation": "to afford",
+    "chapter": 2,
+    "example": "Das kann ich mir nicht leisten."
+  },
+  {
+    "id": 295,
+    "term": "die Sorge",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "worry / concern",
+    "chapter": 2,
+    "example": "Mach dir keine Sorgen."
+  },
+  {
+    "id": 296,
+    "term": "trotz",
+    "type": "prep",
+    "translation": "despite",
+    "chapter": 2,
+    "example": "Trotz des Regens gingen sie spazieren."
+  },
+  {
+    "id": 297,
+    "term": "wegen",
+    "type": "prep",
+    "translation": "because of",
+    "chapter": 2,
+    "example": "Wegen der Hitze blieben wir drinnen."
+  },
+  {
+    "id": 298,
+    "term": "entsprechen",
+    "type": "verb",
+    "translation": "to correspond",
+    "chapter": 2,
+    "example": "Das Ergebnis entspricht nicht meinen Erwartungen."
+  },
+  {
+    "id": 299,
+    "term": "die Einkaufsliste",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "shopping list",
+    "chapter": 2,
+    "example": "Ich schreibe alles auf die Einkaufsliste."
+  },
+  {
+    "id": 300,
+    "term": "sparsam",
+    "type": "adj",
+    "translation": "thrifty / economical",
+    "chapter": 2,
+    "example": "Dieses Auto ist sehr sparsam."
+  },
+  {
+    "id": 301,
+    "term": "die Werbeanzeige",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "advertisement",
+    "chapter": 2,
+    "example": "Die Werbeanzeige war sehr bunt."
+  },
+  {
+    "id": 302,
+    "term": "ansprechend",
+    "type": "adj",
+    "translation": "appealing",
+    "chapter": 2,
+    "example": "Das Design ist sehr ansprechend."
+  },
+  {
+    "id": 303,
+    "term": "ausgezeichnet",
+    "type": "adj",
+    "translation": "excellent",
+    "chapter": 2,
+    "example": "Das Essen war ausgezeichnet."
+  },
+  {
+    "id": 304,
+    "term": "frech",
+    "type": "adj",
+    "translation": "cheeky",
+    "chapter": 2,
+    "example": "Sei nicht so frech!"
+  },
+  {
+    "id": 305,
+    "term": "merkwürdig",
+    "type": "adj",
+    "translation": "strange / odd",
+    "chapter": 2,
+    "example": "Das ist ein merkwürdiger Zufall."
+  },
+  {
+    "id": 306,
+    "term": "wirken",
+    "type": "verb",
+    "translation": "to have an effect / seem",
+    "chapter": 2,
+    "example": "Die Medizin beginnt zu wirken."
+  },
+  {
+    "id": 307,
+    "term": "der Markenname",
+    "article": "der",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "brand name",
+    "chapter": 2,
+    "example": "Der Markenname ist weltbekannt."
+  },
+  {
+    "id": 308,
+    "term": "die Schmerztablette",
+    "article": "die",
+    "plural": "-n",
+    "type": "noun",
+    "translation": "painkiller",
+    "chapter": 2,
+    "example": "Ich habe Kopfweh und nehme eine Schmerztablette."
+  },
+  {
+    "id": 309,
+    "term": "das Taschentuch",
+    "article": "das",
+    "plural": "\"-er",
+    "type": "noun",
+    "translation": "handkerchief / tissue",
+    "chapter": 2,
+    "example": "Hast du ein Taschentuch für mich?"
+  },
+  {
+    "id": 310,
+    "term": "ansprechen",
+    "type": "verb",
+    "translation": "to address / appeal to",
+    "chapter": 2,
+    "example": "Werbung spricht oft Gefühle an."
+  },
+  {
+    "id": 311,
+    "term": "aufmerksam",
+    "type": "adj",
+    "translation": "attentive",
+    "chapter": 2,
+    "example": "Bitte seien Sie aufmerksam."
+  },
+  {
+    "id": 312,
+    "term": "automatisch",
+    "type": "adj",
+    "translation": "automatic",
+    "chapter": 2,
+    "example": "Die Tür öffnet sich automatisch."
+  },
+  {
+    "id": 313,
+    "term": "beeinflussen",
+    "type": "verb",
+    "translation": "to influence",
+    "chapter": 2,
+    "example": "Das Wetter beeinflusst meine Laune."
+  },
+  {
+    "id": 314,
+    "term": "die Erinnerung",
+    "article": "die",
+    "plural": "-en",
+    "type": "noun",
+    "translation": "memory",
+    "chapter": 2,
+    "example": "Das ist eine schöne Erinnerung."
+  },
+  {
+    "id": 315,
+    "term": "das Kaufverhalten",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "buying behavior",
+    "chapter": 2,
+    "example": "Das Kaufverhalten hat sich geändert."
+  },
+  {
+    "id": 316,
+    "term": "der Spruch",
+    "article": "der",
+    "plural": "\"-e",
+    "type": "noun",
+    "translation": "saying / slogan",
+    "chapter": 2,
+    "example": "Kennst du diesen lustigen Spruch?"
+  },
+  {
+    "id": 317,
+    "term": "überrascht",
+    "type": "adj",
+    "translation": "surprised",
+    "chapter": 2,
+    "example": "Ich war sehr überrascht."
+  },
+  {
+    "id": 318,
+    "term": "das Unternehmen",
+    "article": "das",
+    "plural": "-",
+    "type": "noun",
+    "translation": "company / enterprise",
+    "chapter": 2,
+    "example": "Er arbeitet für ein großes Unternehmen."
+  },
+  {
+    "id": 319,
+    "term": "vertrauen",
+    "type": "verb",
+    "translation": "to trust",
+    "chapter": 2,
+    "example": "Ich vertraue dir voll und ganz."
+  },
+  {
+    "id": 320,
+    "term": "der Werbetrick",
+    "article": "der",
+    "plural": "-s",
+    "type": "noun",
+    "translation": "advertising trick",
+    "chapter": 2,
+    "example": "Das ist nur ein billiger Werbetrick."
+  },
+  {
+    "id": 321,
+    "term": "ungesund",
+    "type": "adj",
+    "translation": "unhealthy",
+    "chapter": 2,
+    "example": "Zu viel Zucker ist ungesund."
+  },
+  {
+    "id": 322,
+    "term": "verbieten",
+    "type": "verb",
+    "translation": "to forbid",
+    "chapter": 2,
+    "example": "Rauchen ist hier verboten."
+  }
+]
